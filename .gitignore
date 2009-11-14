@@ -1,0 +1,5 @@
+# Lines starting with '#' are considered comments.
+# Ignorar archivos de respaldo de editores
+*~
+#ignorar los *.pyc
+*.pyc
