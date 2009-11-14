@@ -4,3 +4,9 @@
 #ignorar los *.pyc
 *.pyc
 *.tmplc
+python-mx/output/atom.xml
+python-mx/output/index.html
+python-mx/output/opml.xml
+python-mx/output/rss10.xml
+python-mx/output/rss20.xml
+
