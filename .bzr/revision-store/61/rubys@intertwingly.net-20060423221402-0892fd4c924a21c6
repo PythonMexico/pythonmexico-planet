@@ -1,0 +1,9 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="b8536a1788a87ffe8f7b4ea24ecea57e23f244dc" revision_id="rubys@intertwingly.net-20060423221402-0892fd4c924a21c6" timestamp="1145830442.357453108" timezone="-14400">
+<message>XHTML fixes
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060423193231-5f53e4c5d33d42f5" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

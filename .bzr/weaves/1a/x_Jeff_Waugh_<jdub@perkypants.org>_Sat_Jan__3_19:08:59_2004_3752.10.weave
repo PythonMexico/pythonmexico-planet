@@ -1,0 +1,542 @@
+# bzr weave file v5
+i
+1 25d0a0d804420a19cf9bb45c37a0141158ed3d8e
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 d52f84348b41ba645beeafac0020826b5ba7cf91
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-2
+
+i 1
+1 b46d760c64248989de00c4724888aa007aaedc33
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-5
+
+i 2
+1 ee40cee5c67e2a13619f65bcf2b2cd513122440d
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-10
+
+i 3
+1 f47e28b237781dc16effdcea9a6efa32d7c1a6cc
+n mary@puzzling.org-20060409091607-f8be8771fec38fcf
+
+i 3
+1 f96ac33a5fc5093333540cd614e6c75293cb7fdd
+n rubys@intertwingly.net-20060422023150-7c78d4dd2f916a25
+
+i 5
+1 0d8e612aab6503511943f077ebc87801591800a7
+n rubys@intertwingly.net-20060422235834-b915133a5c4f6173
+
+i 6
+1 394419a61d18d5aa000ba6e3aa0b296bc1460df8
+n rubys@intertwingly.net-20060423193231-5f53e4c5d33d42f5
+
+i 7 4
+1 e2ff70127d5f07e50b317542979b3425e14c87c0
+n mary@puzzling.org-20060429000723-291fa98f50dd9571
+
+i 7 4
+1 e2ff70127d5f07e50b317542979b3425e14c87c0
+n mary@puzzling.org-20060429000736-a6fd9a1384c055a7
+
+i 9
+1 d74360946d5c1d1b89abeec229a30fb5c24a57f3
+n mary@puzzling.org-20060429002526-9af129367b348f61
+
+i 10
+1 b0b1c476df49ca81d94a62f1604d09cc8b823b4c
+n mary@puzzling.org-20060429004624-801bf5c184f21d0d
+
+i 11
+1 ac71077a529eb84b1444e6166b0b1b5baed4b4fb
+n mary@puzzling.org-20060429005440-aa0e8db9dc0048dd
+
+i 3
+1 42d6ffaa16436640a55d0e39dd7832bfe134fed6
+n mary@puzzling.org-20060409063744-e37838d3350fb1c4
+
+i 12
+1 b843e5e225a2b111b3035a9f6a7d941c17ca039d
+n rubys@intertwingly.net-20060509120437-841adf1934c62873
+
+i 14
+1 04d73b82dc1ec2085c5a6c3e5782d19e5fcfb265
+n jdub@svengali-20060522015643-d4ad9042072c4d05
+
+i 15
+1 c44cc275b94e6e6d01261da7eb426e7bc9462128
+n jdub@svengali-20060522031145-428b8b9a1a0ed9e4
+
+i 16
+1 b047806c0d58de48ffbe5b9dce25649cac4d2ff9
+n rubys@intertwingly.net-20060522144746-1b4752cc5078711c
+
+w
+{ 0
+. #!/usr/bin/env python
+. """The Planet aggregator.
+. 
+. A flexible and easy-to-use aggregator for generating websites.
+. 
+. Visit http://www.planetplanet.org/ for more information and to download
+. the latest version.
+. 
+. Requires Python 2.1, recommends 2.3.
+. """
+. 
+. __authors__ = [ "Scott James Remnant <scott@netsplit.com>",
+.                 "Jeff Waugh <jdub@perkypants.org>" ]
+. __license__ = "Python"
+. 
+. 
+. import os
+. import sys
+. import time
+. import locale
+{ 5
+. import urlparse
+}
+{ 6
+[ 12
+. import sgmllib
+}
+{ 11
+. import logging
+}
+] 12
+. 
+. import planet
+. 
+. from ConfigParser import ConfigParser
+[ 12
+. 
+] 12
+. 
+. # Default configuration file path
+. CONFIG_FILE = "config.ini"
+. 
+. # Defaults for the [Planet] config section
+. PLANET_NAME = "Unconfigured Planet"
+. PLANET_LINK = "Unconfigured Planet"
+{ 5
+. PLANET_FEED = None
+}
+. OWNER_NAME  = "Anonymous Coward"
+. OWNER_EMAIL = ""
+. LOG_LEVEL   = "WARNING"
+{ 14
+. FEED_TIMEOUT = 20 # seconds
+}
+. 
+. # Default template file list
+. TEMPLATE_FILES = "examples/basic/planet.html.tmpl"
+. 
+[ 4
+. # Defaults for the template file config sections
+. OUTPUT_DIR      = "output"
+. DATE_FORMAT     = "%B %d, %Y %I:%M %p"
+. NEW_DATE_FORMAT = "%B %d, %Y"
+. ENCODING        = "utf-8"
+. ITEMS_PER_PAGE  = 60
+. DAYS_PER_PAGE   = 0
+] 4
+. 
+. 
+. def config_get(config, section, option, default=None, raw=0, vars=None):
+.     """Get a value from the configuration, with a default."""
+.     if config.has_option(section, option):
+.         return config.get(section, option, raw=raw, vars=None)
+[ 13
+.     else:
+.         return default
+[ 4
+. 
+. def tmpl_config_get(config, template, option, default=None, raw=0, vars=None):
+.     """Get a template value from the configuration, with a default."""
+.     if config.has_option(template, option):
+.         return config.get(template, option, raw=raw, vars=None)
+.     elif config.has_option("Planet", option):
+.         return config.get("Planet", option, raw=raw, vars=None)
+] 13
+.     else:
+.         return default
+{ 6
+. 
+. class stripHtml(sgmllib.SGMLParser):
+.     "remove all tags from the data"
+.     def __init__(self, data):
+.         sgmllib.SGMLParser.__init__(self)
+.         self.result=''
+.         self.feed(data)
+.         self.close()
+.     def handle_data(self, data):
+.         if data: self.result+=data
+}
+. 
+. def template_info(item, date_format):
+.     """Produce a dictionary of template information."""
+.     info = {}
+.     for key in item.keys():
+.         if item.key_type(key) == item.DATE:
+.             date = item.get_as_date(key)
+.             info[key] = time.strftime(date_format, date)
+.             info[key + "_iso"] = time.strftime(planet.TIMEFMT_ISO, date)
+.             info[key + "_822"] = time.strftime(planet.TIMEFMT_822, date)
+.         else:
+.             info[key] = item[key]
+{ 6
+.     if 'title' in item.keys():
+.         info['title_plain'] = stripHtml(info['title']).result
+}
+.     return info
+] 4
+. 
+[ 2
+. 
+. if __name__ == "__main__":
+] 2
+{ 2
+. def main():
+}
+.     config_file = CONFIG_FILE
+.     offline = 0
+{ 3
+.     verbose = 0
+}
+. 
+.     for arg in sys.argv[1:]:
+.         if arg == "-h" or arg == "--help":
+.             print "Usage: planet [options] [CONFIGFILE]"
+.             print
+.             print "Options:"
+{ 3
+.             print " -v, --verbose       DEBUG level logging during update"
+}
+.             print " -o, --offline       Update the Planet from the cache only"
+.             print " -h, --help          Display this help message and exit"
+.             print
+.             sys.exit(0)
+{ 3
+.         elif arg == "-v" or arg == "--verbose":
+.             verbose = 1
+}
+.         elif arg == "-o" or arg == "--offline":
+.             offline = 1
+.         elif arg.startswith("-"):
+.             print >>sys.stderr, "Unknown option:", arg
+.             sys.exit(1)
+.         else:
+.             config_file = arg
+. 
+.     # Read the configuration file
+.     config = ConfigParser()
+.     config.read(config_file)
+.     if not config.has_section("Planet"):
+.         print >>sys.stderr, "Configuration missing [Planet] section."
+.         sys.exit(1)
+. 
+.     # Read the [Planet] config section
+.     planet_name = config_get(config, "Planet", "name",        PLANET_NAME)
+.     planet_link = config_get(config, "Planet", "link",        PLANET_LINK)
+{ 5
+.     planet_feed = config_get(config, "Planet", "feed",        PLANET_FEED)
+}
+.     owner_name  = config_get(config, "Planet", "owner_name",  OWNER_NAME)
+.     owner_email = config_get(config, "Planet", "owner_email", OWNER_EMAIL)
+[ 3
+.     log_level   = config_get(config, "Planet", "log_level",   LOG_LEVEL)
+] 3
+{ 3
+.     if verbose:
+.         log_level = "DEBUG"
+.     else:
+.         log_level  = config_get(config, "Planet", "log_level", LOG_LEVEL)
+}
+{ 14
+.     feed_timeout   = config_get(config, "Planet", "feed_timeout", FEED_TIMEOUT)
+}
+.     template_files = config_get(config, "Planet", "template_files",
+.                                 TEMPLATE_FILES).split(" ")
+{ 5
+. 
+.     # Default feed to the first feed for which there is a template
+.     if not planet_feed:
+.         for template_file in template_files:
+.             name = os.path.splitext(os.path.basename(template_file))[0]
+.             if name.find('atom')>=0 or name.find('rss')>=0:
+.                 planet_feed = urlparse.urljoin(planet_link, name)
+.                 break
+}
+. 
+.     # Define locale
+.     if config.has_option("Planet", "locale"):
+[ 15
+.         locale.setlocale(locale.LC_ALL, config.get("Planet", "locale"))
+] 15
+{ 15
+.         # The user can specify more than one locale (separated by ":") as
+.         # fallbacks.
+.         locale_ok = False
+.         for user_locale in config.get("Planet", "locale").split(':'):
+.             user_locale = user_locale.strip()
+.             try:
+.                 locale.setlocale(locale.LC_ALL, user_locale)
+.             except locale.Error:
+.                 pass
+.             else:
+.                 locale_ok = True
+.                 break
+.         if not locale_ok:
+.             print >>sys.stderr, "Unsupported locale setting."
+.             sys.exit(1)
+}
+. 
+.     # Activate logging
+.     planet.logging.basicConfig()
+.     planet.logging.getLogger().setLevel(planet.logging.getLevelName(log_level))
+[ 4
+.     log = planet.logging.getLogger("planet.runner")
+] 4
+{ 14
+.     log = planet.logging.getLogger("planet.runner")
+{ 16
+.     try:
+.         log.warning
+.     except:
+.         log.warning = log.warn
+}
+. 
+.     # timeoutsocket allows feedparser to time out rather than hang forever on
+.     # ultra-slow servers.  Python 2.3 now has this functionality available in
+.     # the standard socket library, so under 2.3 you don't need to install
+.     # anything.  But you probably should anyway, because the socket module is
+.     # buggy and timeoutsocket is better.
+{ 16
+.     if feed_timeout:
+.         try:
+.             feed_timeout = float(feed_timeout)
+.         except:
+.             log.warning("Feed timeout set to invalid value '%s', skipping", feed_timeout)
+.             feed_timeout = None
+. 
+}
+.     if feed_timeout and not offline:
+.         try:
+.             from planet import timeoutsocket
+.             timeoutsocket.setDefaultSocketTimeout(feed_timeout)
+.             log.debug("Socket timeout set to %d seconds", feed_timeout)
+.         except ImportError:
+.             import socket
+.             if hasattr(socket, 'setdefaulttimeout'):
+.                 log.debug("timeoutsocket not found, using python function")
+.                 socket.setdefaulttimeout(feed_timeout)
+.                 log.debug("Socket timeout set to %d seconds", feed_timeout)
+.             else:
+.                 log.error("Unable to set timeout to %d seconds", feed_timeout)
+}
+. 
+[ 4
+{ 13
+.     max_days = planet.template.get_max_days(config, template_files, DAYS_PER_PAGE)
+.     max_items = planet.template.get_max_items(config, template_files, ITEMS_PER_PAGE)
+.     # calculate these so that the planet can trim while creating itself
+.     largest_max_days = max(max_days.values())
+.     largest_max_items = max(max_items.values())
+. 
+}
+.     # Create a planet
+.     log.info("Loading cached data")
+] 4
+[ 17
+.     my_planet = planet.Planet()
+[ 4
+.     if config.has_option("Planet", "cache_directory"):
+.         my_planet.cache_directory = config.get("Planet", "cache_directory")
+.     if config.has_option("Planet", "new_feed_items"):
+.         my_planet.new_feed_items  = int(config.get("Planet", "new_feed_items"))
+.     my_planet.user_agent = "%s +%s %s" % (planet_name, planet_link,
+.                                           my_planet.user_agent)
+{ 1
+.     if config.has_option("Planet", "filter"):
+.         my_planet.filter = config.get("Planet", "filter")
+}
+] 4
+{ 4
+[ 12
+.     log = logging.getLogger("planet.runner")
+] 12
+{ 12
+[ 14
+.     log = planet.logging.getLogger("planet.runner")
+}
+] 14
+.     my_planet.run(config, planet_name, planet_link, template_files, offline)
+[ 10
+.     my_planet.generate_all_files(template_files, config, planet_name, planet_link, owner_name, owner_email)
+}
+] 10
+{ 10
+.     my_planet.generate_all_files(template_files, config, planet_name, planet_link, planet_feed,
+.             owner_name, owner_email)
+}
+] 17
+{ 17
+.     # run the planet
+.     my_planet = planet.Planet(config)
+.     my_planet.run(planet_name, planet_link, template_files, offline)
+}
+. 
+[ 4
+.     # The other configuration blocks are channels to subscribe to
+.     for feed_url in config.sections():
+.         if feed_url == "Planet" or feed_url in template_files:
+.             continue
+] 4
+{ 17
+.     my_planet.generate_all_files(template_files, planet_name,
+.         planet_link, planet_feed, owner_name, owner_email)
+}
+. 
+[ 4
+.         # Create a channel, configure it and subscribe it
+.         channel = planet.Channel(my_planet, feed_url)
+.         for option in config.options(feed_url):
+.             value = config.get(feed_url, option)
+.             channel.set_as_string(option, value, cached=0)
+.         my_planet.subscribe(channel)
+. 
+.         # Update it
+.         try:
+.             if not offline:
+.                 channel.update()
+{ 13
+.                 my_planet.trim_items(channel)
+}
+.         except KeyboardInterrupt:
+.             raise
+.         except:
+.             log.exception("Update of <%s> failed", feed_url)
+. 
+.     # Go-go-gadget-template
+.     manager = planet.htmltmpl.TemplateManager()
+.     for template_file in template_files:
+.         log.info("Processing template %s", template_file)
+.         template = manager.prepare(template_file)
+. 
+.         # Read the configuration
+.         output_dir = tmpl_config_get(config, template_file,
+.                                      "output_dir", OUTPUT_DIR)
+.         date_format = tmpl_config_get(config, template_file,
+.                                       "date_format", DATE_FORMAT, raw=1)
+.         new_date_format = tmpl_config_get(config, template_file,
+.                                           "new_date_format", NEW_DATE_FORMAT,
+.                                           raw=1)
+.         encoding = tmpl_config_get(config, template_file, "encoding", ENCODING)
+[ 13
+.         items_per_page = int(tmpl_config_get(config, template_file,
+.                                              "items_per_page", ITEMS_PER_PAGE))
+.         days_per_page = int(tmpl_config_get(config, template_file,
+.                                             "days_per_page", DAYS_PER_PAGE))
+] 13
+{ 13
+.         items_per_page = max_items[template_file]
+.         days_per_page = max_days[template_file]
+}
+. 
+.         # We treat each template individually
+.         base = os.path.splitext(os.path.basename(template_file))[0]
+.         url = os.path.join(planet_link, base)
+.         output_file = os.path.join(output_dir, base)
+. 
+.         # Gather channel information
+.         channels = {}
+.         channels_list = []
+.         for channel in my_planet.channels(hidden=1):
+.             channels[channel] = template_info(channel, date_format)
+.             channels_list.append(channels[channel])
+. 
+.         # Gather item information
+.         items_list = []
+.         prev_date = []
+.         prev_channel = None
+.         for newsitem in my_planet.items(max_items=items_per_page,
+.                                         max_days=days_per_page):
+.             item_info = template_info(newsitem, date_format)
+.             chan_info = channels[newsitem._channel]
+.             for k, v in chan_info.items():
+.                 item_info["channel_" + k] = v
+. 
+.             # Check for the start of a new day
+.             if prev_date[:3] != newsitem.date[:3]:
+.                 prev_date = newsitem.date
+.                 item_info["new_date"] = time.strftime(new_date_format,
+.                                                       newsitem.date)
+. 
+.             # Check for the start of a new channel
+.             if item_info.has_key("new_date") \
+.                    or prev_channel != newsitem._channel:
+.                 prev_channel = newsitem._channel
+.                 item_info["new_channel"] = newsitem._channel.url
+. 
+.             items_list.append(item_info)
+. 
+.         # Process the template
+.         tp = planet.htmltmpl.TemplateProcessor(html_escape=0)
+.         tp.set("Items", items_list)
+.         tp.set("Channels", channels_list)
+. 
+.         # Generic information
+.         tp.set("generator",   planet.VERSION)
+.         tp.set("name",        planet_name)
+.         tp.set("link",        planet_link)
+{ 5
+[ 7
+.         tp.set("feed",        planet_feed)
+}
+] 7
+.         tp.set("owner_name",  owner_name)
+.         tp.set("owner_email", owner_email)
+.         tp.set("url",         url)
+. 
+{ 5
+.         if planet_feed:
+{ 7
+.             tp.set("feed", planet_feed)
+}
+.             tp.set("feedtype", planet_feed.find('rss')>=0 and 'rss' or 'atom')
+.         
+}
+.         # Update time
+.         date = time.gmtime()
+.         tp.set("date",        time.strftime(date_format, date))
+.         tp.set("date_iso",    time.strftime(planet.TIMEFMT_ISO, date))
+.         tp.set("date_822",    time.strftime(planet.TIMEFMT_822, date))
+. 
+.         try:
+.             log.info("Writing %s", output_file)
+.             output_fd = open(output_file, "w")
+.             if encoding.lower() in ("utf-8", "utf8"):
+.                 # UTF-8 output is the default because we use that internally
+.                 output_fd.write(tp.process(template))
+.             elif encoding.lower() in ("xml", "html", "sgml"):
+.                 # Magic for Python 2.3 users
+.                 output = tp.process(template).decode("utf-8")
+.                 output_fd.write(output.encode("ascii", "xmlcharrefreplace"))
+.             else:
+.                 # Must be a "known" encoding
+.                 output = tp.process(template).decode("utf-8")
+.                 output_fd.write(output.encode(encoding, "replace"))
+.             output_fd.close()
+.         except KeyboardInterrupt:
+.             raise
+.         except:
+.             log.exception("Write of %s failed", output_file)
+}
+{ 2
+] 4
+. 
+. if __name__ == "__main__":
+.     main()
+. 
+}
+W

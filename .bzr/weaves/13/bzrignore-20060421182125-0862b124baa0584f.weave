@@ -1,0 +1,17 @@
+# bzr weave file v5
+i
+1 6600afaa50ec68c6bbeae15b9bc076d0f813f1df
+n rubys@intertwingly.net-20060421182224-8428a93f08f33483
+
+i 0
+1 2f9159a29a2e4bb96c5590aadeeff4c6b9de2599
+n rubys@intertwingly.net-20060508142956-55c76099e52e7b66
+
+w
+{ 0
+. examples/*.tmplc
+}
+{ 1
+. planet/tests/*.tmplc
+}
+W

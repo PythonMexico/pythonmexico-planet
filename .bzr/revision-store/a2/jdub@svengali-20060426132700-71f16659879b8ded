@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="24ff51758896da905a6e73dfc3bd399d3db5d5d6" revision_id="jdub@svengali-20060426132700-71f16659879b8ded" timestamp="1146058020.813769102" timezone="36000">
+<message>use title_plain in rss feeds</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060424173528-2b894b48bffc2a45" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

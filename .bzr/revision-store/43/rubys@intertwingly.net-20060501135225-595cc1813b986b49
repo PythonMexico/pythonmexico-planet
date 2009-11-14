@@ -1,0 +1,10 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="f449d47da28248c6079667761a828d29fa63cb81" revision_id="rubys@intertwingly.net-20060501135225-595cc1813b986b49" timestamp="1146491545.681288958" timezone="-14400">
+<message>Better support for HTTP status codes (particularly 226, 302, and 410).
+Optional feed activity threshold.
+</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060429160447-0146240be90da6c2" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

@@ -1,0 +1,151 @@
+# bzr weave file v5
+i
+1 98f38128e11a36ec37f0aa5f1d847fb14444df3a
+n mary@puzzling.org-20060409091630-df92a67937e94c2d
+
+i 0
+1 a2e4a2049fa2368c72380679f687b128c041298f
+n mary@puzzling.org-20060429002526-9af129367b348f61
+
+i 1
+1 97ea11eef859f8170e5a0ea69715db637a447c20
+n mary@puzzling.org-20060503034939-4b2da48aa41077ec
+
+i 2
+1 954ef63122e3d661b84da7e9677967ac557bf5ac
+n rubys@intertwingly.net-20060522144746-1b4752cc5078711c
+
+i 3
+1 dfa893d5a07825ca47de3afc977d513ac1bcd9ec
+n mary-bzr@puzzling.org-20060625023154-f27af0d9d20f1f79
+
+w
+{ 0
+[ 1
+. import os, sys, shutil
+] 1
+{ 1
+[ 2
+. import os, sys, shutil, errno
+}
+. from unittest import TestCase
+] 2
+{ 2
+. #!/usr/bin/env python
+. import os, sys, shutil, errno, unittest
+}
+. from ConfigParser import ConfigParser
+. from StringIO import StringIO
+. import planet
+. 
+[ 2
+. class MainTest(TestCase):
+] 2
+{ 2
+. class MainTest(unittest.TestCase):
+}
+.     
+.     def test_minimal(self):
+.         configp = ConfigParser()
+[ 3
+.         my_planet = planet.Planet()
+.         my_planet.run(configp, "Planet Name", "http://example.com", [])
+] 3
+{ 3
+.         my_planet = planet.Planet(configp)
+.         my_planet.run("Planet Name", "http://example.com", [])
+}
+. 
+.     def test_onefeed(self):
+.         configp = ConfigParser()
+.         configp.readfp(StringIO("""[http://www.example.com/]
+. name = Mary
+. """))
+[ 3
+.         my_planet = planet.Planet()
+.         my_planet.run(configp, "Planet Name", "http://example.com", [], True)
+] 3
+{ 3
+.         my_planet = planet.Planet(configp)
+.         my_planet.run("Planet Name", "http://example.com", [], True)
+}
+. 
+. 
+.     def test_generateall(self):
+.         configp = ConfigParser()
+.         configp.readfp(StringIO("""[http://www.example.com/]
+. name = Mary
+. """))
+[ 3
+.         my_planet = planet.Planet()
+.         my_planet.run(configp, "Planet Name", "http://example.com", [], True)
+] 3
+{ 3
+.         my_planet = planet.Planet(configp)
+.         my_planet.run("Planet Name", "http://example.com", [], True)
+}
+[ 4
+.         basedir = os.path.dirname(os.path.abspath(sys.modules[__name__].__file__))
+] 4
+{ 4
+.         basedir = os.path.join(os.path.dirname(os.path.abspath(sys.modules[__name__].__file__)), 'data')
+}
+.         os.mkdir(self.output_dir)
+.         t_file_names = ['simple', 'simple2']
+{ 1
+.         self._remove_cached_templates(basedir, t_file_names)
+}
+.         t_files = [os.path.join(basedir, t_file) + '.tmpl' for t_file in t_file_names]
+[ 1
+.         my_planet.generate_all_files(t_files, configp, "Planet Name", 'http://example.com/', 'Mary', 'mary@example.com')
+] 1
+{ 1
+[ 3
+.         my_planet.generate_all_files(t_files, configp, "Planet Name",
+] 3
+{ 3
+.         my_planet.generate_all_files(t_files, "Planet Name",
+}
+.                 'http://example.com/', 'http://example.com/feed/', 'Mary', 'mary@example.com')
+}
+.         for file_name in t_file_names:
+.             name = os.path.join(self.output_dir, file_name)
+.             content = file(name).read()
+.             self.assertEqual(content, 'Mary\n')
+{ 1
+. 
+.     def _remove_cached_templates(self, basedir, template_files):
+.         """
+.         Remove the .tmplc files and force them to be rebuilt.
+. 
+.         This is required mainly so that the tests don't fail in mysterious ways in
+.         directories that have been moved, eg 'branches/my-branch' to
+.         'branches/mysterious-branch' -- the .tmplc files seem to remember their full
+.         path
+.         """
+.         for file in template_files:
+.             path = os.path.join(basedir, file + '.tmplc')
+.             try:
+.                 os.remove(path)
+.             except OSError, e:
+.                 # we don't care about the file not being there, we care about
+.                 # everything else
+.                 if e.errno != errno.ENOENT:
+.                     raise
+}
+. 
+.     def setUp(self):
+.         super(MainTest, self).setUp()
+.         self.output_dir = 'output'
+. 
+.     def tearDown(self):
+.         super(MainTest, self).tearDown()
+.         shutil.rmtree(self.output_dir, ignore_errors = True)
+.         shutil.rmtree('cache', ignore_errors = True)
+}
+{ 2
+. 
+. if __name__ == '__main__':
+.     unittest.main()
+}
+W

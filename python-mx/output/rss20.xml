@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+
+<channel>
+	<title>Planeta Python México</title>
+	<link>http://planet.pythonmexico.org/</link>
+	<language>en</language>
+	<description>Planeta Python México - http://planet.pythonmexico.org/</description>
+
+<item>
+	<title>Noe Nieto: Más pruebas al planet de python méxico</title>
+	<guid>http://noenieto.com/blog/mas-pruebas-al-planet-de-python-mexico</guid>
+	<link>http://noenieto.com/blog/mas-pruebas-al-planet-de-python-mexico</link>
+	<description>Lorem ipsum.</description>
+	<pubDate>sáb, 14 nov 2009 05:23:58 +0000</pubDate>
+</item>
+<item>
+	<title>Noe Nieto: Pruebas al planet de python mx</title>
+	<guid>http://noenieto.com/blog/pruebas-al-planet-de-python-mx</guid>
+	<link>http://noenieto.com/blog/pruebas-al-planet-de-python-mx</link>
+	<description>Estoy haciendo pruebas al planet de python mx</description>
+	<pubDate>sáb, 14 nov 2009 05:22:39 +0000</pubDate>
+</item>
+<item>
+	<title>Campus Party: Llegan los primeros grupos de niños a Inclusión Digital</title>
+	<guid>http://blog.campus-party.com.mx/?p=582</guid>
+	<link>http://blog.campus-party.com.mx/index.php/2009/11/14/llegan-los-primeros-grupos-de-ninos-a-inclusion-digital/</link>
+	<description>&lt;p&gt;Ya comienzan a llegar grupos de niños&lt;/p&gt;</description>
+	<pubDate>sáb, 14 nov 2009 01:11:42 +0000</pubDate>
+</item>
+<item>
+	<title>Noe Nieto: Estoy en la campus party</title>
+	<guid>http://noenieto.com/blog/estoy-en-la-campus-party</guid>
+	<link>http://noenieto.com/blog/estoy-en-la-campus-party</link>
+	<description>Y me latió el el observatorio virtual en una esfera. Yeah!!
+
+Al rato me toca ir a ver Júpiter.</description>
+	<pubDate>sáb, 14 nov 2009 01:11:19 +0000</pubDate>
+</item>
+<item>
+	<title>Campus Party: Llegan campuseros a Campus Party México</title>
+	<guid>http://blog.campus-party.com.mx/?p=633</guid>
+	<link>http://blog.campus-party.com.mx/index.php/2009/11/13/entrada-de-campuseros/</link>
+	<description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Ayer comenzó el acceso de todos los campuseros a Campus Party México, quienes ya están más qué instalados y se desenvuelven como veteranos aprovechando increibles velocidades de transferencia.&lt;/p&gt;
+&lt;p&gt;Sí aún no llegas, no esperes más y ven a vivir la Campus Party México&lt;/p&gt;
+&lt;p&gt;Visita nuestro &lt;a href=&quot;http://www.youtube.com/user/campusparty&quot; target=&quot;_blank&quot;&gt;canal de youtube&lt;/a&gt; para ver más videos y en más alta calidad.&lt;/p&gt;</description>
+	<pubDate>vie, 13 nov 2009 21:08:25 +0000</pubDate>
+</item>
+<item>
+	<title>Noe Nieto: Mi primera experiencia con Django y zc.buildout en Ubuntu 9.10</title>
+	<guid>http://noenieto.com/blog/mi-primera-experiencia-con-django-y-zc.buildout-en-ubuntu-9.10</guid>
+	<link>http://noenieto.com/blog/mi-primera-experiencia-con-django-y-zc.buildout-en-ubuntu-9.10</link>
+	<description>Esta es la primera vez que intento hacer el hola mundo con Django. Como vengo del mundo de plone intenté ver si se podía hacer de manera sencilla con zc.buildout.</description>
+	<pubDate>vie, 06 nov 2009 16:59:26 +0000</pubDate>
+</item>
+<item>
+	<title>Erik Rivera: Primer Post</title>
+	<guid>http://www.erik.com.mx/index.php/blog/show/Primer-Post.html</guid>
+	<link>http://www.erik.com.mx/index.php/blog/show/Primer-Post.html</link>
+	<description>&lt;p&gt;¡Hola Mundo! otra vez con blog; espero ahora si lo mantenga actualizado. &lt;img src=&quot;http://www.erik.com.mx/data/xml/plugins/Emoticons/images/tongue.png&quot; border=&quot;0&quot; alt=&quot;tongue.png &quot; width=&quot;16&quot; height=&quot;16&quot; /&gt;&lt;/p&gt;</description>
+	<pubDate>sáb, 10 ene 2009 07:02:04 +0000</pubDate>
+	<author>erik.river@gmail.com (Erik)</author>
+</item>
+
+</channel>
+</rss>

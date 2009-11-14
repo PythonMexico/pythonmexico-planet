@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="bc6c418accc72eca56146007e8f87904eebd9ccf" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-18" timestamp="1139107527.000000000">
+<message>fix manifest for cache dir</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-17" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

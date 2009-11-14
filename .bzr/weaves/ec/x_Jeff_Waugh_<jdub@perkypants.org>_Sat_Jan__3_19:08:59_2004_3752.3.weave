@@ -1,0 +1,46 @@
+# bzr weave file v5
+i
+1 ab0d10bde8544f0ceac348d98370493dcb226240
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 9496a7b810e3c520a6387cbb025293f167b7abc6
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16
+
+w
+{ 0
+. Planet
+. ------
+. 
+[ 1
+. Planet is a flexible feed aggregator, this means that it downloads feeds
+. and aggregates their content together into a single combined feed with
+. the latest news first.
+] 1
+{ 1
+. Planet is a flexible feed aggregator. It downloads news feeds published by
+. web sites and aggregates their content together into a single combined feed,
+. latest news first.
+}
+. 
+[ 1
+. It uses Mark Pilgrim's Ultra-liberal feed parser so can read from RDF, RSS
+. and Atom feeds and Tomas Styblo's template library to output static files
+. in unlimited formats based on a series of templates.
+] 1
+{ 1
+. It uses Mark Pilgrim's Universal Feed Parser to read from RDF, RSS and Atom
+. feeds; and Tomas Styblo's templating engine to output static files in any
+. format you can dream up.
+}
+. 
+[ 1
+. 
+. We've tried to make sure you can get up and running in next to no time,
+. instructions are given in the INSTALL file.
+}
+] 1
+{ 1
+. Keywords: feed, blog, aggregator, RSS, RDF, Atom, OPML, Python
+}
+W

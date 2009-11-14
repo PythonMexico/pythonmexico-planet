@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="804ab3449b864be3998566f9cb1beb9a26280f23" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-15" timestamp="1139039343.000000000">
+<message>remove stupid changelog mess</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-14" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

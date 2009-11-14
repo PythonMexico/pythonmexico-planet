@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="9dae2d0b5df765d8d2766c467e69199648540423" revision_id="jdub@svengali-20060504145447-8749b9206ab32210" timestamp="1146754487.133542061" timezone="36000">
+<message>ensure we ship tmpl tests - thanks to Baz</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060503164302-4aed412bab3cd705" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

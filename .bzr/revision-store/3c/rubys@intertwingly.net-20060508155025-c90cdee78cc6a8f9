@@ -1,0 +1,9 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="e879a3c99844e54fb09fb34cd13cba6c7201f26e" revision_id="rubys@intertwingly.net-20060508155025-c90cdee78cc6a8f9" timestamp="1147103425.010096073" timezone="-14400">
+<message>Add source information to the example Atom template
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060508144742-cbb3ebf9185a2c8a" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

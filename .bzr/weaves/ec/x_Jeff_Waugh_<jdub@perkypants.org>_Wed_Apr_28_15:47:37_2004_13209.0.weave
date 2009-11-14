@@ -1,0 +1,38 @@
+# bzr weave file v5
+i
+1 3dd193dc202edfd6e8f74c0532a2c501f3001245
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 3029475854489d5527e6d57523daacc3473ab494
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-12
+
+w
+{ 0
+. Patches and Bug Fixes
+. ---------------------
+. 
+[ 1
+. Gediminas Paulauskas		(days per page feature)
+. David Pashley			(cache code profiling and recursion fixing)
+. Lucas Nussbaum			(locale configuration)
+] 1
+{ 1
+. Chris Dolan - fixes, exclude filtering, duplicate culling
+. David Edmondson - filtering
+. Lucas Nussbaum - locale configuration
+. David Pashley - cache code profiling and recursion fixing
+. Gediminas Paulauskas - days per page
+}
+. 
+. 
+. Spycyroll Maintainers
+. ---------------------
+. 
+. Vattekkat Satheesh Babu
+. Richard Jones
+. Garth Kidd
+. Eliot Landrum
+. Bryan Richard
+}
+W

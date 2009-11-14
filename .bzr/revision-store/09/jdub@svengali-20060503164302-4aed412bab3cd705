@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="68012cc0032f510e7cd5fe7f8f009218f6cece15" revision_id="jdub@svengali-20060503164302-4aed412bab3cd705" timestamp="1146674582.152692080" timezone="36000">
+<message>prepare for nightly builds again</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060503042524-d22125ffa0913ddd" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

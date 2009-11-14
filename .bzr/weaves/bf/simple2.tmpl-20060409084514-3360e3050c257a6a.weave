@@ -1,0 +1,17 @@
+# bzr weave file v5
+i
+1 fc92209f15db5ae861bbd13cbafbf14903550a4a
+n mary@puzzling.org-20060409091607-f8be8771fec38fcf
+
+i 0
+1 fc92209f15db5ae861bbd13cbafbf14903550a4a
+n mary-bzr@puzzling.org-20060625023154-f27af0d9d20f1f79
+
+w
+{ 0
+. <TMPL_LOOP Channels>
+. <TMPL_VAR name>
+. 
+. </TMPL_LOOP>
+}
+W

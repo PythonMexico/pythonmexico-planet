@@ -1,0 +1,77 @@
+# bzr weave file v5
+i
+1 a79aa99ad269dc92f7da2e1106459646bca10779
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 58c7050773b6b64f311f526e8976384bcaba9ffc
+n jdub@svengali-20060409022418-8b5ecc87a35719db
+
+i 1
+1 942a754fafea444e520c7a5add52be1928afe0f1
+n jdub@svengali-20060426132700-71f16659879b8ded
+
+i 2
+1 da17f57763c554c6d5b37aab480dface7543fe54
+n jdub@svengali-20060526062044-8c98f4dcf0bb5666
+
+w
+{ 0
+. <?xml version="1.0"?>
+[ 3
+. <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+] 3
+{ 3
+. <rss version="2.0">
+}
+. 
+. <channel>
+. 	<title><TMPL_VAR name></title>
+. 	<link><TMPL_VAR link ESCAPE="HTML"></link>
+. 	<language>en</language>
+[ 1
+. 	<description><TMPL_VAR name> - <TMPL_VAR link ESCAPE="HTML"></description>
+] 1
+{ 1
+. 	<description><TMPL_VAR name ESCAPE="HTML"> - <TMPL_VAR link ESCAPE="HTML"></description>
+}
+. 
+. <TMPL_LOOP Items>
+. <item>
+[ 1
+. 	<title><TMPL_VAR channel_name><TMPL_IF title>: <TMPL_VAR title></TMPL_IF></title>
+] 1
+{ 1
+[ 2
+. 	<title><TMPL_VAR channel_name ESCAPE="HTML"><TMPL_IF title>: <TMPL_VAR title ESCAPE="HTML"></TMPL_IF></title>
+}
+] 2
+{ 2
+. 	<title><TMPL_VAR channel_name ESCAPE="HTML"><TMPL_IF title>: <TMPL_VAR title_plain ESCAPE="HTML"></TMPL_IF></title>
+}
+. 	<guid><TMPL_VAR id ESCAPE="HTML"></guid>
+. 	<link><TMPL_VAR link ESCAPE="HTML"></link>
+. 	<TMPL_IF content>
+. 	<description><TMPL_VAR content ESCAPE="HTML"></description>
+. 	</TMPL_IF>
+. 	<pubDate><TMPL_VAR date_822></pubDate>
+[ 3
+. 	<TMPL_IF author>
+. 	<dc:creator><TMPL_VAR author></dc:creator>
+] 3
+{ 3
+. 	<TMPL_IF author_email>
+. 	<TMPL_IF author_name>
+. 	<author><TMPL_VAR author_email> (<TMPL_VAR author_name>)</author>
+. 	<TMPL_ELSE>
+. 	<author><TMPL_VAR author_email></author>
+. 	</TMPL_IF>
+}
+. 	</TMPL_IF>
+. </item>
+. </TMPL_LOOP>
+. 
+. </channel>
+. </rss>
+}
+W

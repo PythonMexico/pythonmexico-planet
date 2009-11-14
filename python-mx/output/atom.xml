@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Planeta Python México</title>
+	<link rel="self" href="http://planet.pythonmexico.org/atom.xml"/>
+	<link href="http://planet.pythonmexico.org/"/>
+	<id>http://planet.pythonmexico.org/atom.xml</id>
+	<updated>2009-11-14T06:04:50+00:00</updated>
+	<generator uri="http://www.planetplanet.org/">Planet/2.0 +http://www.planetplanet.org</generator>
+
+	<entry>
+		<title type="html">Más pruebas al planet de python méxico</title>
+		<link href="http://noenieto.com/blog/mas-pruebas-al-planet-de-python-mexico"/>
+		<id>http://noenieto.com/blog/mas-pruebas-al-planet-de-python-mexico</id>
+		<updated>2009-11-14T05:23:58+00:00</updated>
+		<content type="html">Lorem ipsum.</content>
+		<author>
+			<name>Noe Nieto</name>
+			<uri>http://noenieto.com</uri>
+		</author>
+		<source>
+			<title type="html">Blog</title>
+			<link rel="self" href="http://noenieto.com/blog/todos-los-blogs/RSS"/>
+			<id>http://noenieto.com/blog/todos-los-blogs/RSS</id>
+			<updated>2009-11-14T06:04:49+00:00</updated>
+		</source>
+	</entry>
+
+	<entry>
+		<title type="html">Pruebas al planet de python mx</title>
+		<link href="http://noenieto.com/blog/pruebas-al-planet-de-python-mx"/>
+		<id>http://noenieto.com/blog/pruebas-al-planet-de-python-mx</id>
+		<updated>2009-11-14T05:22:39+00:00</updated>
+		<content type="html">Estoy haciendo pruebas al planet de python mx</content>
+		<author>
+			<name>Noe Nieto</name>
+			<uri>http://noenieto.com</uri>
+		</author>
+		<source>
+			<title type="html">Blog</title>
+			<link rel="self" href="http://noenieto.com/blog/todos-los-blogs/RSS"/>
+			<id>http://noenieto.com/blog/todos-los-blogs/RSS</id>
+			<updated>2009-11-14T06:04:49+00:00</updated>
+		</source>
+	</entry>
+
+	<entry xml:lang="en">
+		<title type="html">Llegan los primeros grupos de niños a Inclusión Digital</title>
+		<link href="http://blog.campus-party.com.mx/index.php/2009/11/14/llegan-los-primeros-grupos-de-ninos-a-inclusion-digital/"/>
+		<id>http://blog.campus-party.com.mx/?p=582</id>
+		<updated>2009-11-14T01:11:42+00:00</updated>
+		<content type="html">&lt;p&gt;Ya comienzan a llegar grupos de niños&lt;/p&gt;</content>
+		<author>
+			<name>Campus Party</name>
+			<uri>http://blog.campus-party.com.mx</uri>
+		</author>
+		<source>
+			<title type="html">Blog Campus Party México</title>
+			<subtitle type="html">El conocimiento crece cuando se comparte</subtitle>
+			<link rel="self" href="http://blog.campus-party.com.mx/index.php/feed/"/>
+			<id>http://blog.campus-party.com.mx/index.php/feed/</id>
+			<updated>2009-11-14T04:53:37+00:00</updated>
+		</source>
+	</entry>
+
+	<entry>
+		<title type="html">Estoy en la campus party</title>
+		<link href="http://noenieto.com/blog/estoy-en-la-campus-party"/>
+		<id>http://noenieto.com/blog/estoy-en-la-campus-party</id>
+		<updated>2009-11-14T01:11:19+00:00</updated>
+		<content type="html">Y me latió el el observatorio virtual en una esfera. Yeah!!
+
+Al rato me toca ir a ver Júpiter.</content>
+		<author>
+			<name>Noe Nieto</name>
+			<uri>http://noenieto.com</uri>
+		</author>
+		<source>
+			<title type="html">Blog</title>
+			<link rel="self" href="http://noenieto.com/blog/todos-los-blogs/RSS"/>
+			<id>http://noenieto.com/blog/todos-los-blogs/RSS</id>
+			<updated>2009-11-14T06:04:49+00:00</updated>
+		</source>
+	</entry>
+
+	<entry xml:lang="en">
+		<title type="html">Llegan campuseros a Campus Party México</title>
+		<link href="http://blog.campus-party.com.mx/index.php/2009/11/13/entrada-de-campuseros/"/>
+		<id>http://blog.campus-party.com.mx/?p=633</id>
+		<updated>2009-11-13T21:08:25+00:00</updated>
+		<content type="html">&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Ayer comenzó el acceso de todos los campuseros a Campus Party México, quienes ya están más qué instalados y se desenvuelven como veteranos aprovechando increibles velocidades de transferencia.&lt;/p&gt;
+&lt;p&gt;Sí aún no llegas, no esperes más y ven a vivir la Campus Party México&lt;/p&gt;
+&lt;p&gt;Visita nuestro &lt;a href=&quot;http://www.youtube.com/user/campusparty&quot; target=&quot;_blank&quot;&gt;canal de youtube&lt;/a&gt; para ver más videos y en más alta calidad.&lt;/p&gt;</content>
+		<author>
+			<name>Campus Party</name>
+			<uri>http://blog.campus-party.com.mx</uri>
+		</author>
+		<source>
+			<title type="html">Blog Campus Party México</title>
+			<subtitle type="html">El conocimiento crece cuando se comparte</subtitle>
+			<link rel="self" href="http://blog.campus-party.com.mx/index.php/feed/"/>
+			<id>http://blog.campus-party.com.mx/index.php/feed/</id>
+			<updated>2009-11-14T04:53:37+00:00</updated>
+		</source>
+	</entry>
+
+	<entry>
+		<title type="html">Mi primera experiencia con Django y zc.buildout en Ubuntu 9.10</title>
+		<link href="http://noenieto.com/blog/mi-primera-experiencia-con-django-y-zc.buildout-en-ubuntu-9.10"/>
+		<id>http://noenieto.com/blog/mi-primera-experiencia-con-django-y-zc.buildout-en-ubuntu-9.10</id>
+		<updated>2009-11-06T16:59:26+00:00</updated>
+		<content type="html">Esta es la primera vez que intento hacer el hola mundo con Django. Como vengo del mundo de plone intenté ver si se podía hacer de manera sencilla con zc.buildout.</content>
+		<author>
+			<name>Noe Nieto</name>
+			<uri>http://noenieto.com</uri>
+		</author>
+		<source>
+			<title type="html">Blog</title>
+			<link rel="self" href="http://noenieto.com/blog/todos-los-blogs/RSS"/>
+			<id>http://noenieto.com/blog/todos-los-blogs/RSS</id>
+			<updated>2009-11-14T06:04:49+00:00</updated>
+		</source>
+	</entry>
+
+	<entry>
+		<title type="html">Primer Post</title>
+		<link href="http://www.erik.com.mx/index.php/blog/show/Primer-Post.html"/>
+		<id>http://www.erik.com.mx/index.php/blog/show/Primer-Post.html</id>
+		<updated>2009-01-10T07:02:04+00:00</updated>
+		<content type="html">&lt;p&gt;¡Hola Mundo! otra vez con blog; espero ahora si lo mantenga actualizado. &lt;img src=&quot;http://www.erik.com.mx/data/xml/plugins/Emoticons/images/tongue.png&quot; border=&quot;0&quot; alt=&quot;tongue.png &quot; width=&quot;16&quot; height=&quot;16&quot; /&gt;&lt;/p&gt;</content>
+		<author>
+			<name>Erik</name>
+			<email>erik.river@gmail.com</email>
+			<uri>http://www.erik.com.mx</uri>
+		</author>
+		<source>
+			<title type="html">3r1k</title>
+			<subtitle type="html">Examinando todo, reteniendo lo bueno</subtitle>
+			<link rel="self" href="http://www.erik.com.mx/data/xml/blog.rss"/>
+			<id>http://www.erik.com.mx/data/xml/blog.rss</id>
+			<updated>2009-11-14T06:04:50+00:00</updated>
+			<rights type="html">2009, Erik Rivera Morales</rights>
+		</source>
+	</entry>
+
+</feed>

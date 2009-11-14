@@ -1,0 +1,29 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="066c7757834c554c5e82a29a3052b677a4f045f7" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-4" timestamp="1103271720.000000000">
+<message>merged from chris dolan
+Patches applied:
+
+ * chris@chrisdolan.net--2004/planet--devel--1.0--patch-1
+   Change htmltmpl.py to use fcntl.flock
+
+ * chris@chrisdolan.net--2004/planet--devel--1.0--patch-2
+   HTML validation tweak
+
+ * chris@chrisdolan.net--2004/planet--devel--1.0--patch-4
+   Added exclude filter
+
+ * chris@chrisdolan.net--2004/planet--devel--1.0--patch-5
+   Add taxonomic divs and ids for days, channels and entries
+
+ * chris@chrisdolan.net--2004/planet--devel--1.0--patch-7
+   Add a filter to remove duplicate new items
+
+</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-3" />
+<revision_ref revision_id="Arch-1:chris@chrisdolan.net--2004%planet--devel--1.0--patch-2" />
+<revision_ref revision_id="Arch-1:chris@chrisdolan.net--2004%planet--devel--1.0--patch-5" />
+<revision_ref revision_id="Arch-1:chris@chrisdolan.net--2004%planet--devel--1.0--patch-7" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

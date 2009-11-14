@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="98afece325125a609dcde35b94d271943ef4be88" revision_id="jdub@svengali-20060409022418-8b5ecc87a35719db" timestamp="1144549458.530751944" timezone="36000">
+<message>Escape various bits in the RSS feeds.</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--stable--1.0--base-0" />
+</parents>
+<properties><property name="branch-nick">1.0</property>
+</properties>
+</revision>

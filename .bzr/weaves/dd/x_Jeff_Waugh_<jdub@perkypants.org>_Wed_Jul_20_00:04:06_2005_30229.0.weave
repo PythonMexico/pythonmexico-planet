@@ -1,0 +1,194 @@
+# bzr weave file v5
+i
+1 4c2d2a941c8d6d5ad9caa76cf527311f68772082
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-7
+
+i 0
+1 b7e1e09b8d7c664e4b74e93e77610d2ae9c18c44
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-8
+
+i 1
+1 0cc9fed5954b8d7ab7bbef9f1cf3af37c257b50e
+n rubys@intertwingly.net-20060422023150-7c78d4dd2f916a25
+
+i 2
+1 0cd8403404280cc5807fd9201221b56845e87130
+n rubys@intertwingly.net-20060424155523-b7eaadf9d8c67215
+
+i 3
+1 c1d7edbeba71e10298ea0632174e08dbd0c96604
+n rubys@intertwingly.net-20060508155025-c90cdee78cc6a8f9
+
+i 4
+1 422f2fa3035ce0744ced456c5668eebbdd8de3cd
+n rubys@intertwingly.net-20060509010717-187bcdc16d702723
+
+i 5
+1 28d3d22cead17f0b9032cd34c3315983fc539106
+n rubys@intertwingly.net-20060512045907-e4e7baa333752135
+
+w
+{ 0
+. <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+[ 1
+. <feed version="0.3" xmlns="http://purl.org/atom/ns#">
+] 1
+{ 1
+. <feed xmlns="http://www.w3.org/2005/Atom">
+}
+. 
+. 	<title><TMPL_VAR name></title>
+[ 1
+. 	<modified><TMPL_VAR date_iso></modified>
+] 1
+{ 1
+[ 2
+. 	<!--<link rel="self" type="text/atom" href=""/>-->
+}
+. 	<link rel="alternate" type="text/html" href="<TMPL_VAR link ESCAPE="HTML">"/>
+[ 1
+. 	<info type="text/html" mode="escaped"><TMPL_VAR name> - <TMPL_VAR link ESCAPE="HTML"></info>
+. 	<generator url="http://www.planetplanet.org/"><TMPL_VAR generator ESCAPE="HTML"></generator>
+] 1
+{ 1
+. 	<id></id>
+] 2
+{ 2
+. 	<link rel="self" href="<TMPL_VAR feed ESCAPE="HTML">"/>
+. 	<link href="<TMPL_VAR link ESCAPE="HTML">"/>
+. 	<id><TMPL_VAR feed ESCAPE="HTML"></id>
+}
+. 	<updated><TMPL_VAR date_iso></updated>
+. 	<generator uri="http://www.planetplanet.org/"><TMPL_VAR generator ESCAPE="HTML"></generator>
+}
+. 
+. <TMPL_LOOP Items>
+[ 4
+. 	<entry>
+[ 2
+. 		<title><TMPL_VAR channel_name><TMPL_IF title>: <TMPL_VAR title></TMPL_IF></title>
+. 		<link rel="alternate" type="text/html" href="<TMPL_VAR link ESCAPE="HTML">"/>
+] 2
+{ 2
+. 		<title type="html"><TMPL_VAR channel_name ESCAPE="HTML"><TMPL_IF title>: <TMPL_VAR title ESCAPE="HTML"></TMPL_IF></title>
+] 4
+{ 4
+. 	<entry<TMPL_IF channel_language> xml:lang="<TMPL_VAR channel_language>"</TMPL_IF>>
+[ 5
+. 		<title type="html"<TMPL_IF title_language> xml:lang="<TMPL_VAR title_language>"</TMPL_IF>><TMPL_VAR channel_name ESCAPE="HTML"><TMPL_IF title>: <TMPL_VAR title ESCAPE="HTML"></TMPL_IF></title>
+}
+] 5
+{ 5
+. 		<title type="html"<TMPL_IF title_language> xml:lang="<TMPL_VAR title_language>"</TMPL_IF>><TMPL_VAR title ESCAPE="HTML"></title>
+}
+. 		<link href="<TMPL_VAR link ESCAPE="HTML">"/>
+}
+. 		<id><TMPL_VAR id ESCAPE="HTML"></id>
+[ 1
+. 		<issued><TMPL_VAR date_iso></issued>
+. 		<modified><TMPL_VAR date_iso></modified>
+. 		<content type="text/html" mode="escaped"><TMPL_VAR content ESCAPE="HTML"></content>
+] 1
+{ 1
+. 		<updated><TMPL_VAR date_iso></updated>
+[ 4
+. 		<content type="html"><TMPL_VAR content ESCAPE="HTML"></content>
+}
+] 4
+{ 4
+. 		<content type="html"<TMPL_IF content_language> xml:lang="<TMPL_VAR content_language>"</TMPL_IF>><TMPL_VAR content ESCAPE="HTML"></content>
+}
+. 		<author>
+[ 4
+. <TMPL_IF author>
+[ 3
+. 			<name><TMPL_VAR author></name>
+] 3
+{ 3
+. 			<name><TMPL_VAR author ESCAPE="HTML"></name>
+}
+] 4
+{ 4
+. <TMPL_IF author_name>
+. 			<name><TMPL_VAR author_name ESCAPE="HTML"></name>
+. <TMPL_IF author_email>
+. 			<email><TMPL_VAR author_email ESCAPE="HTML"></email>
+. </TMPL_IF author_email>
+. <TMPL_ELSE>
+. <TMPL_IF channel_author_name>
+. 			<name><TMPL_VAR channel_author_name ESCAPE="HTML"></name>
+. <TMPL_IF channel_author_email>
+. 			<email><TMPL_VAR channel_author_email ESCAPE="HTML"></email>
+. </TMPL_IF channel_author_email>
+}
+. <TMPL_ELSE>
+[ 3
+. 			<name><TMPL_VAR channel_name></name>
+] 3
+{ 3
+. 			<name><TMPL_VAR channel_name ESCAPE="HTML"></name>
+}
+. </TMPL_IF>
+[ 1
+. 			<url><TMPL_VAR channel_link></url>
+] 1
+{ 1
+[ 4
+. 			<uri><TMPL_VAR channel_link></uri>
+}
+] 4
+{ 4
+. </TMPL_IF>
+. 			<uri><TMPL_VAR channel_link ESCAPE="HTML"></uri>
+}
+. 		</author>
+{ 4
+. 		<source>
+. <TMPL_IF channel_title>
+[ 5
+. 			<title><TMPL_VAR channel_title ESCAPE="HTML"></title>
+] 5
+{ 5
+. 			<title type="html"><TMPL_VAR channel_title ESCAPE="HTML"></title>
+}
+. <TMPL_ELSE>
+[ 5
+. 			<title><TMPL_VAR channel_name ESCAPE="HTML"></title>
+] 5
+{ 5
+. 			<title type="html"><TMPL_VAR channel_name ESCAPE="HTML"></title>
+}
+. </TMPL_IF>
+. <TMPL_IF channel_subtitle>
+[ 5
+. 			<subtitle><TMPL_VAR channel_subtitle ESCAPE="HTML"></subtitle>
+] 5
+{ 5
+. 			<subtitle type="html"><TMPL_VAR channel_subtitle ESCAPE="HTML"></subtitle>
+}
+. </TMPL_IF>
+. 			<link rel="self" href="<TMPL_VAR channel_url ESCAPE="HTML">"/>
+. <TMPL_IF channel_id>
+. 			<id><TMPL_VAR channel_id ESCAPE="HTML"></id>
+. <TMPL_ELSE>
+. 			<id><TMPL_VAR channel_url ESCAPE="HTML"></id>
+. </TMPL_IF>
+. <TMPL_IF channel_updated_iso>
+. 			<updated><TMPL_VAR channel_updated_iso></updated>
+. </TMPL_IF>
+. <TMPL_IF channel_rights>
+[ 6
+. 			<rights><TMPL_VAR channel_rights ESCAPE="HTML"></rights>
+] 6
+{ 6
+. 			<rights type="html"><TMPL_VAR channel_rights ESCAPE="HTML"></rights>
+}
+. </TMPL_IF>
+. 		</source>
+}
+. 	</entry>
+. 
+. </TMPL_LOOP>
+. </feed>
+}
+W

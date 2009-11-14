@@ -1,0 +1,9 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="4f3613829ad94c3ef426fe2ef9f41a82f5abf0c4" revision_id="rubys@intertwingly.net-20060422023150-7c78d4dd2f916a25" timestamp="1145673110.892744064" timezone="-14400">
+<message>Autodiscovery and Atom feed improvments
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060421182224-8428a93f08f33483" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

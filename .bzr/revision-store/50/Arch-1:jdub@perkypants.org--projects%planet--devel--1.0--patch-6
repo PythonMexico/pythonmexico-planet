@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="8e57aec6cef82d676aadfe61c31d6880e16e64bf" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-6" timestamp="1121783008.000000000">
+<message>tidy up example configurations</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-5" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

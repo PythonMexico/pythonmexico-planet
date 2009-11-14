@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="d73d071af07334911f0c70f0c6fbf4061f000983" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" timestamp="1139043494.000000000">
+<message>even more preparation for 1.0</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-15" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

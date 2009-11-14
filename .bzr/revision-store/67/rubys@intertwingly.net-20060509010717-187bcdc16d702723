@@ -1,0 +1,10 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="c89c48fff872bb5527ae26a7b9877a305c284914" revision_id="rubys@intertwingly.net-20060509010717-187bcdc16d702723" timestamp="1147136837.533193111" timezone="-14400">
+<message>Atom fixes: title-=channel_name, source:title&amp;subtitle may contain html,
+relativize cite attributes, attempt to relativize all entries.
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060508155025-c90cdee78cc6a8f9" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

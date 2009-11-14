@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="86543b9a3e2552e7fe656df60266dc8f4c055450" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-11" timestamp="1139035106.000000000">
+<message>dodge this rare feedparser comment handling bug for now</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-10" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

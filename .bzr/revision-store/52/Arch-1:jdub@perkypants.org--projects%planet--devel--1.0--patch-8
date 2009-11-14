@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="0fa9e9743ef29438f45d6b269726db32c4acb8dc" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-8" timestamp="1128691722.000000000">
+<message>updates to the atom template, still not complete</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-7" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

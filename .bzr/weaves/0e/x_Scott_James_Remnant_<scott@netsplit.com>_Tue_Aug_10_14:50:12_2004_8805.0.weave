@@ -1,0 +1,85 @@
+# bzr weave file v5
+i
+1 90c90c662d57feeb9dedf18b07dfc91b9b6e73c5
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 71d490cfe9aa419bff32653de324eaecbc246682
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-14
+
+i 1
+1 a7c0c5a25b81ab89656dd8743565dfbba3042bb9
+n jdub@svengali-20060503164302-4aed412bab3cd705
+
+i 2
+1 94ca844a74bd0797c86429f91b7df4a4392d66ce
+n jdub@svengali-20060509052427-15c27a3e72e94f57
+
+w
+{ 0
+. #!/usr/bin/env python
+[ 2
+. """The Planet aggregator."""
+] 2
+{ 2
+. """The Planet Feed Aggregator"""
+}
+. 
+[ 1
+. __authors__ = [ "Scott James Remnant <scott@netsplit.com>",
+.                 "Jeff Waugh <jdub@perkypants.org>" ]
+. __license__ = "Python"
+. 
+. 
+] 1
+{ 2
+. import os
+}
+. from distutils.core import setup
+. 
+[ 1
+. from planet import __version__ as planet_ver
+] 1
+{ 1
+. from planet import __version__ as VERSION
+. from planet import __license__ as LICENSE
+}
+{ 2
+. 
+. if 'PLANET_VERSION' in os.environ.keys():
+.     VERSION = os.environ['PLANET_VERSION']
+}
+. 
+. setup(name="planet",
+[ 1
+.       version=planet_ver,
+] 1
+{ 1
+.       version=VERSION,
+.       description="The Planet Feed Aggregator",
+.       author="Planet Developers",
+.       author_email="devel@lists.planetplanet.org",
+.       url="http://www.planetplanet.org/",
+.       license=LICENSE,
+}
+[ 2
+.       packages=["planet", "planet.compat_logging"],
+] 2
+{ 2
+.       packages=["planet", "planet.compat_logging", "planet.tests"],
+}
+[ 3
+.       scripts=["planet.py", "planet-cache.py"],
+[ 1
+.       description="The Planet aggregator",
+.       url="http://www.planetplanet.org/",
+.       author="Scott James Remnant and Jeff Waugh",
+.       author_email="devel@lists.planetplanet.org",
+] 1
+] 3
+{ 3
+.       scripts=["planet.py", "planet-cache.py", "runtests.py"],
+}
+.       )
+}
+W

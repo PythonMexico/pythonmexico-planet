@@ -1,0 +1,9 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="0ecb3eb051ff511b7f5b6b902d273343d3bf50e3" revision_id="rubys@intertwingly.net-20060424181443-55864de13418cca5" timestamp="1145902483.893738031" timezone="-14400">
+<message>Don't assume that everything else is a string field... check first
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060424155523-b7eaadf9d8c67215" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

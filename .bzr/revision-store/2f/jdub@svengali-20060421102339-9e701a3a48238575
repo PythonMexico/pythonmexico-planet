@@ -1,0 +1,9 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="e9077e8d358e09e61f6cddf4f5c046b6b322ab87" revision_id="jdub@svengali-20060421102339-9e701a3a48238575" timestamp="1145615019.526616096" timezone="36000">
+<message>merge fixes from 1.0</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-20" />
+<revision_ref revision_id="jdub@svengali-20060409022418-8b5ecc87a35719db" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

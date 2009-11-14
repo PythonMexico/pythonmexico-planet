@@ -1,0 +1,8 @@
+<revision committer="Mary Gardiner &lt;mary@puzzling.org&gt;" format="5" inventory_sha1="2527bbde062816f7cbee794d21a7a66b01fce8df" revision_id="mary@puzzling.org-20060429005440-aa0e8db9dc0048dd" timestamp="1146272080.760627031" timezone="36000">
+<message>Add stripHtml back in</message>
+<parents>
+<revision_ref revision_id="mary@puzzling.org-20060429004624-801bf5c184f21d0d" />
+</parents>
+<properties><property name="branch-nick">main-tests</property>
+</properties>
+</revision>

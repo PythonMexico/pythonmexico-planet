@@ -1,0 +1,98 @@
+# bzr weave file v5
+i
+1 30c9bdd0dda2c273ecf9b956835340bcfd9dbf6c
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 34ec7b8b10271b9a30da97bed292fe33ebeedea5
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16
+
+i 1
+1 beb7f6032ffa212acf680c4606c2c9c24fcf090c
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-20
+
+i 2
+1 34ec7b8b10271b9a30da97bed292fe33ebeedea5
+n jdub@svengali-20060503164302-4aed412bab3cd705
+
+w
+{ 0
+[ 1
+. Feature Goals for Planet 1.0
+. ============================
+] 1
+{ 1
+. TODO
+. ====
+}
+. 
+.   * Expire feed history
+. 
+.     The feed cache doesn't currently expire old entries, so could get
+.     large quite rapidly.  We should probably have a config setting for
+.     the cache expiry, the trouble is some channels might need a longer
+.     or shorter one than others.
+[ 1
+. 
+.   * Restore keyword support
+. 
+.     Jeff's keyword support isn't present, mostly because I'd unmerged
+.     it from my own branch because it was causing many problems on
+.     Planet Debian.  It should be restored and put in Planet.items()
+.     where it belongs now.
+. 
+.     Note: this is kinda interesting the way the config file works now :-)
+. 
+.     - Add multiple keyword support
+. 
+.       I hadn't announced it yet, but I have added a simple 'keyword feeds'
+.       feature, which allows you to subscribe to feeds and only display
+.       items that mention your keyword in the title, summary or
+.       description.  This is totally arse-kickingly rad, and
+.       demonstrated on my personal Planet.
+.     
+.       However, currently it only allows you to define one keyword
+.       phrase for each feed, which kinda sucks. If there's some
+.       quick-and-dirty boolean phrase parser, we could use it really
+.       well here, for instance:
+. 
+.         keyword = (gnome OR kde) NOT sucks
+. 
+.       Maybe that's overkill - we could just support multiple ORed
+.       keyword fields.
+. 
+.     - Fix stupid UTF-8 error with current keyword support
+. 
+.       For some reason, keyword support tweaks string encoding errors, such as:
+.       "WARNING:root:Item wasn't in UTF-8 or ISO-8859-1, replaced all non-ASCII
+.       characters." This is bad.
+. 
+.       Note: this may have gone away with the new code.
+] 1
+. 
+.   * Allow display normalisation to specified timezone
+. 
+.     Some Planet admins would like their feed to be displayed in the local
+.     timezone, instead of UTC.
+. 
+.   * Support OPML and foaf subscriptions
+. 
+.     This might be a bit invasive, but I want to be able to subscribe to OPML
+.     and FOAF files, and see each feed as if it were subscribed individually.
+.     Perhaps we can do this with a two-pass configuration scheme, first to pull
+.     the static configs, second to go fetch and generate the dynamic configs.
+.     The more I think about it, the less invasive it sounds. Hmm.
+}
+{ 2
+[ 3
+. 
+.   * Avoid NEW feeds with very old entries
+. 
+.     We could glance at the claimed date of NEW feed entries (or even the feed
+.     published/updated date itself), and use it to pick a spot for them in the
+.     stack... This will avoid items from 2004 appearing at the top of the page
+.     when a NEW feed is added, or even worse, on the very first run when every
+.     feed is NEW.
+}
+] 3
+W

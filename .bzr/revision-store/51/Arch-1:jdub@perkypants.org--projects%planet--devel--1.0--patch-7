@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="475af61ff4775d3b4a228fa1ac59e839b486eefb" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-7" timestamp="1121783053.000000000">
+<message>add valid atom feed</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-6" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

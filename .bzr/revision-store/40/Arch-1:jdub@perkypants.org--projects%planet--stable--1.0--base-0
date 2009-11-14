@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="7925e40818fe3b65857019498c84741cb235d4ba" revision_id="Arch-1:jdub@perkypants.org--projects%planet--stable--1.0--base-0" timestamp="1139108921.000000000">
+<message>tag of jdub@perkypants.org--projects/planet--devel--1.0--patch-19</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-19" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

@@ -1,0 +1,9 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="3d171d15b4e132e21abf8c6451b446a70d4ee49e" revision_id="rubys@intertwingly.net-20060424155523-b7eaadf9d8c67215" timestamp="1145894123.160844088" timezone="-14400">
+<message>Escape name in Atom feed
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060424143554-536ea0a99706b48d" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

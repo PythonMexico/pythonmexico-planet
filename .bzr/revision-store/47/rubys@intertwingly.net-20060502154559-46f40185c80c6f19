@@ -1,0 +1,9 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="f45e64e3eb99b8493ede33054277a9a34950c3d5" revision_id="rubys@intertwingly.net-20060502154559-46f40185c80c6f19" timestamp="1146584759.491497993" timezone="-14400">
+<message>Produce OPML that conforms to the Guidelines for validating OPML
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060501135225-595cc1813b986b49" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

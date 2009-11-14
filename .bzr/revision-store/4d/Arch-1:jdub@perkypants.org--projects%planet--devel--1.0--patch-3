@@ -1,0 +1,15 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="c711804b41c86f3aa9d9514f3a0007e46058a24f" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-3" timestamp="1101989823.000000000">
+<message>merged dme's per feed filtering, ignored unrelated change
+Patches applied:
+
+ * dme@dme.org--2004/planet--devel--1.0--patch-4
+   per-channel filtering
+
+</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-2" />
+<revision_ref revision_id="Arch-1:dme@dme.org--2004%planet--devel--1.0--patch-4" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

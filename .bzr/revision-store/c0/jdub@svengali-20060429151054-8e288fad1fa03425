@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="c83e8ba02f8b44cd9dd0c7514616f46599e0d2b3" revision_id="jdub@svengali-20060429151054-8e288fad1fa03425" timestamp="1146323454.033941984" timezone="36000">
+<message>use (str, unicode) instead of basestring, for compatibility with python &lt; 2.3</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060429024450-1aa5a952f8687efa" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

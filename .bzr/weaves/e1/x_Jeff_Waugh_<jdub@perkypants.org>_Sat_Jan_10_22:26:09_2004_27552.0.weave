@@ -1,0 +1,84 @@
+# bzr weave file v5
+i
+1 e11b70a5cb130433cf7ef07f2db04ea2e909a0fe
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 57c349db972523b0f4a4148b65563b0dfb13ba26
+n jdub@svengali-20060409022418-8b5ecc87a35719db
+
+i 1
+1 6e9d11df0113bb990ce07a71d48317e221fae249
+n jdub@svengali-20060426132700-71f16659879b8ded
+
+i 2
+1 41208b523b1178e7fd5a47776c68e7d8b06a5583
+n jdub@svengali-20060526062044-8c98f4dcf0bb5666
+
+w
+{ 0
+. <?xml version="1.0"?>
+. <rdf:RDF
+. 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+. 	xmlns:dc="http://purl.org/dc/elements/1.1/"
+. 	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+. 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+. 	xmlns="http://purl.org/rss/1.0/"
+. >
+. <channel rdf:about="<TMPL_VAR link ESCAPE="HTML">">
+[ 1
+. 	<title><TMPL_VAR name></title>
+] 1
+{ 1
+. 	<title><TMPL_VAR name ESCAPE="HTML"></title>
+}
+. 	<link><TMPL_VAR link ESCAPE="HTML"></link>
+[ 1
+. 	<description><TMPL_VAR name> - <TMPL_VAR link ESCAPE="HTML"></description>
+] 1
+{ 1
+. 	<description><TMPL_VAR name ESCAPE="HTML"> - <TMPL_VAR link ESCAPE="HTML"></description>
+}
+. 
+. 	<items>
+. 		<rdf:Seq>
+. <TMPL_LOOP Items>
+. 			<rdf:li rdf:resource="<TMPL_VAR id ESCAPE="HTML">" />
+. </TMPL_LOOP>
+. 		</rdf:Seq>
+. 	</items>
+. </channel>
+. 
+. <TMPL_LOOP Items>
+. <item rdf:about="<TMPL_VAR id ESCAPE="HTML">">
+[ 1
+. 	<title><TMPL_VAR channel_name><TMPL_IF title>: <TMPL_VAR title></TMPL_IF></title>
+] 1
+{ 1
+[ 2
+. 	<title><TMPL_VAR channel_name ESCAPE="HTML"><TMPL_IF title>: <TMPL_VAR title ESCAPE="HTML"></TMPL_IF></title>
+}
+] 2
+{ 2
+. 	<title><TMPL_VAR channel_name ESCAPE="HTML"><TMPL_IF title>: <TMPL_VAR title_plain ESCAPE="HTML"></TMPL_IF></title>
+}
+. 	<link><TMPL_VAR link ESCAPE="HTML"></link>
+. 	<TMPL_IF content>
+. 	<content:encoded><TMPL_VAR content ESCAPE="HTML"></content:encoded>
+. 	</TMPL_IF>
+. 	<dc:date><TMPL_VAR date_iso></dc:date>
+[ 3
+. 	<TMPL_IF author>
+. 	<dc:creator><TMPL_VAR author></dc:creator>
+] 3
+{ 3
+. 	<TMPL_IF author_name>
+. 	<dc:creator><TMPL_VAR author_name></dc:creator>
+}
+. 	</TMPL_IF>
+. </item>
+. </TMPL_LOOP>
+. 
+. </rdf:RDF>
+}
+W

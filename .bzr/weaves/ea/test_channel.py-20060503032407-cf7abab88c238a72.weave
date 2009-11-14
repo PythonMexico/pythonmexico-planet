@@ -1,0 +1,71 @@
+# bzr weave file v5
+i
+1 8f4bb439b375649b522dda94da394d1a3fa54dea
+n mary@puzzling.org-20060503032448-b4df08fe14834cca
+
+i 0
+1 6d1dda1ecb9d2292b0d3c90f6af28c336d45ddb1
+n mary@puzzling.org-20060503034939-4b2da48aa41077ec
+
+i 1
+1 0d0185870875c6d8a45e23d17ef812c318d2166b
+n jdub@svengali-20060522031145-428b8b9a1a0ed9e4
+
+w
+{ 0
+[ 1
+. from unittest import TestCase
+] 1
+{ 1
+. #!/usr/bin/env python
+. 
+. import unittest
+}
+. import planet
+. import tempfile
+{ 2
+. import ConfigParser
+}
+. 
+. class FakePlanet:
+.     """
+.     A dummy Planet object that's enough to fool the
+.     Channel.__init__ method
+.     """
+. 
+.     def __init__(self):
+.         self.cache_directory = tempfile.gettempdir()
+{ 2
+.         self.config = ConfigParser.ConfigParser()
+}
+. 
+[ 1
+. class FeedInformationTest(TestCase):
+] 1
+{ 1
+. class FeedInformationTest(unittest.TestCase):
+}
+.     """
+.     Test the Channel.feed_information method
+.     """
+. 
+.     def setUp(self):
+.         self.url = 'URL'
+.         self.changed_url = 'Changed URL'
+.         self.channel = planet.Channel(FakePlanet(), self.url)
+. 
+.     def test_unchangedurl(self):
+.         self.assertEqual(self.channel.feed_information(), '<%s>' % self.url)
+.                
+.     def test_changedurl(self):
+.         # change the URL directly
+.         self.channel.url = self.changed_url
+.         self.assertEqual(self.channel.feed_information(),
+.            "<%s> (formerly <%s>)" % (self.changed_url, self.url))
+}
+{ 1
+. 
+. if __name__ == '__main__':
+.     unittest.main()
+}
+W

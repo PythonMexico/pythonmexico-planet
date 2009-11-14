@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="2468988e9c560c07258755b3d8d8e5473489f988" revision_id="jdub@svengali-20060509052427-15c27a3e72e94f57" timestamp="1147152267.398947001" timezone="36000">
+<message>distribute runtests.py and make it executable</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060509042920-1a7cb6d2e61b57de" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

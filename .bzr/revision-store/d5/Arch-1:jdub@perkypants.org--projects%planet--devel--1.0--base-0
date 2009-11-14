@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="935db1404f2d378ac92616cd1198f2869b8fd458" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" timestamp="1099721829.000000000">
+<message>tag of scott@netsplit.com--2004/planet--devel--1.0--patch-47</message>
+<parents>
+<revision_ref revision_id="Arch-1:scott@netsplit.com--2004%planet--devel--1.0--patch-47" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

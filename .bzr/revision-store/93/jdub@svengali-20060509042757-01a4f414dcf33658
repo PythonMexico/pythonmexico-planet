@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="330ac391cc72bd29a43014950a6c780428bc6d6d" revision_id="jdub@svengali-20060509042757-01a4f414dcf33658" timestamp="1147148877.754723072" timezone="36000">
+<message>include bzr bits in the tarball for easy updating</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060504145447-8749b9206ab32210" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

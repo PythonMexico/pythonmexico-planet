@@ -1,0 +1,10 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="469a341ef20e3be1404141581e3690a881a80b7c" revision_id="rubys@intertwingly.net-20060421180025-a09e8a75b44df0dc" timestamp="1145642425.842223883" timezone="-14400">
+<message>Patch to work with Feed Parser 4.1 by Frédéric Crozat
+Feed Parser 4.1 by Mark Pilgrim, et. al.
+</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-20" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

@@ -1,0 +1,45 @@
+# bzr weave file v5
+i
+1 d58f156aa8e3df2f0f6a0449f5b64c88a8259f55
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 7e64a58448453c14d582b144d84ca92d9cbc1f6e
+n jdub@svengali-20060429160447-0146240be90da6c2
+
+i 1
+1 c4ffc641bf75e421a4080c1fd16784db4b43f2f6
+n rubys@intertwingly.net-20060502154559-46f40185c80c6f19
+
+w
+{ 0
+. <?xml version="1.0"?>
+. <opml version="1.1">
+. 	<head>
+[ 1
+. 		<title><TMPL_VAR name></title>
+] 1
+{ 1
+. 		<title><TMPL_VAR name ESCAPE="HTML"></title>
+}
+[ 2
+. 		<dateCreated><TMPL_VAR date_822></dateCreated>
+] 2
+. 		<dateModified><TMPL_VAR date_822></dateModified>
+. 		<ownerName><TMPL_VAR owner_name></ownerName>
+. 		<ownerEmail><TMPL_VAR owner_email></ownerEmail>
+. 	</head>
+. 	
+. 	<body>
+. 		<TMPL_LOOP Channels>
+[ 2
+. 		<outline text="<TMPL_VAR name ESCAPE="HTML">" xmlUrl="<TMPL_VAR url ESCAPE="HTML">"/>
+] 2
+{ 2
+. 		<outline type="rss" text="<TMPL_VAR name ESCAPE="HTML">" xmlUrl="<TMPL_VAR url ESCAPE="HTML">" title="<TMPL_IF title><TMPL_VAR title ESCAPE="HTML"></TMPL_IF><TMPL_UNLESS title><TMPL_VAR name ESCAPE="HTML"></TMPL_UNLESS>"<TMPL_IF channel_link> htmlUrl="<TMPL_VAR channel_link ESCAPE="HTML">"</TMPL_IF> />
+}
+. 		</TMPL_LOOP>
+. 	</body>
+. </opml>
+}
+W

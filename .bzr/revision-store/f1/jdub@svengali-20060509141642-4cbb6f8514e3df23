@@ -1,0 +1,9 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="0b5232c482d0ebe956ddccc00cc12c44c074e209" revision_id="jdub@svengali-20060509141642-4cbb6f8514e3df23" timestamp="1147184202.425560951" timezone="36000">
+<message>merge from sam</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060509052427-15c27a3e72e94f57" />
+<revision_ref revision_id="rubys@intertwingly.net-20060509120437-841adf1934c62873" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

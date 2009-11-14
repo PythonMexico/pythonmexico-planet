@@ -1,0 +1,9 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="10abf706661085a7ff972bf29e56232760cc4ef1" revision_id="rubys@intertwingly.net-20060508144742-cbb3ebf9185a2c8a" timestamp="1147099662.908513069" timezone="-14400">
+<message>Omnibus: xml:lang, atom:source, same doc refs, code-page errors
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060508143119-1a850accef3957eb" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>

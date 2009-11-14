@@ -1,0 +1,20 @@
+# bzr weave file v5
+i
+1 1f6ef7629ce247a7faa489bca2b1567b10ad7d2f
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 e4c0d0cfc30eeda10bd59444770376383d37fce3
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-14
+
+w
+{ 0
+[ 1
+. Planet Authors
+. --------------
+. 
+] 1
+. Scott James Remnant <scott@netsplit.com>
+. Jeff Waugh <jdub@perkypants.org>
+}
+W

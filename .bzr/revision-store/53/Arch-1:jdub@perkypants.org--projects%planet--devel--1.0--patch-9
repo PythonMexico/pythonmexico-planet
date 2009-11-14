@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="3e6b26a8b5ca21038718cea20fe9b892cf21f59b" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-9" timestamp="1128692114.000000000">
+<message>items error output fix thanks to byron, include test case in example config</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-8" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

@@ -1,0 +1,1355 @@
+# bzr weave file v5
+i
+1 935db1404f2d378ac92616cd1198f2869b8fd458
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 935db1404f2d378ac92616cd1198f2869b8fd458
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-1
+
+i 1
+1 d1ee6f1b9b44ffa6ef1ee128d60157ded980a695
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-2
+
+i 2
+1 c711804b41c86f3aa9d9514f3a0007e46058a24f
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-3
+
+i 3
+1 066c7757834c554c5e82a29a3052b677a4f045f7
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-4
+
+i 4
+1 524d42b8e495fef9013dcafd388bcdb76643c990
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-5
+
+i 5
+1 8e57aec6cef82d676aadfe61c31d6880e16e64bf
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-6
+
+i 6
+1 475af61ff4775d3b4a228fa1ac59e839b486eefb
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-7
+
+i 7
+1 0fa9e9743ef29438f45d6b269726db32c4acb8dc
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-8
+
+i 8
+1 3e6b26a8b5ca21038718cea20fe9b892cf21f59b
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-9
+
+i 9
+1 de397a1f745c5543dc28d542ed3295f9e9c84753
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-10
+
+i 10
+1 86543b9a3e2552e7fe656df60266dc8f4c055450
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-11
+
+i 11
+1 c3ec22830d2fda0295f10b59a82259c96b1e5d41
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-12
+
+i 12
+1 01c0532dd88a3d75ed5025f4f6cffaa930bc7557
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-13
+
+i 13
+1 960eb5d7a647ed5a61181e569d223f38cc536cb0
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-14
+
+i 14
+1 804ab3449b864be3998566f9cb1beb9a26280f23
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-15
+
+i 15
+1 d73d071af07334911f0c70f0c6fbf4061f000983
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16
+
+i 16
+1 b1cc5808e4f689b447d1a745195d5aeda4c7a1d9
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-17
+
+i 17
+1 bc6c418accc72eca56146007e8f87904eebd9ccf
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-18
+
+i 18
+1 7925e40818fe3b65857019498c84741cb235d4ba
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-19
+
+i 19
+1 d958f2079ac1144fea44e32b2685f42bd4572123
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-20
+
+i 20
+1 469a341ef20e3be1404141581e3690a881a80b7c
+n rubys@intertwingly.net-20060421180025-a09e8a75b44df0dc
+
+i 21
+1 7a18d50a89188b95eff5d2c405b86adb76bb58f1
+n rubys@intertwingly.net-20060421182224-8428a93f08f33483
+
+i 22
+1 4f3613829ad94c3ef426fe2ef9f41a82f5abf0c4
+n rubys@intertwingly.net-20060422023150-7c78d4dd2f916a25
+
+i 23
+1 c1779464078b6f83f85da063138d15a742b9160a
+n rubys@intertwingly.net-20060422124840-1b2ba6db416d5b9f
+
+i 24
+1 af4a00ebe4b243dea416f5009bfa9e069d801e50
+n rubys@intertwingly.net-20060422134605-fbf36a42e433d193
+
+i 25
+1 6eb4529fe52d01614979869187e3403dc9b3ca9f
+n rubys@intertwingly.net-20060422235834-b915133a5c4f6173
+
+i 26
+1 7e1094a332cac995960d8b9d566596774710e845
+n rubys@intertwingly.net-20060423021110-739e517f1b2cfc58
+
+i 27
+1 8369db352d470b2b814bc4dc6b1b3ac0f23f127d
+n rubys@intertwingly.net-20060423193231-5f53e4c5d33d42f5
+
+i 28
+1 b8536a1788a87ffe8f7b4ea24ecea57e23f244dc
+n rubys@intertwingly.net-20060423221402-0892fd4c924a21c6
+
+i 29
+1 91857f0707093878f19a474118f39a738227ef32
+n rubys@intertwingly.net-20060424143554-536ea0a99706b48d
+
+i 30
+1 3d171d15b4e132e21abf8c6451b446a70d4ee49e
+n rubys@intertwingly.net-20060424155523-b7eaadf9d8c67215
+
+i 31
+1 0ecb3eb051ff511b7f5b6b902d273343d3bf50e3
+n rubys@intertwingly.net-20060424181443-55864de13418cca5
+
+i 19
+1 7925e40818fe3b65857019498c84741cb235d4ba
+n Arch-1:jdub@perkypants.org--projects%planet--stable--1.0--base-0
+
+i 33
+1 98afece325125a609dcde35b94d271943ef4be88
+n jdub@svengali-20060409022418-8b5ecc87a35719db
+
+i 20 34
+1 e9077e8d358e09e61f6cddf4f5c046b6b322ab87
+n jdub@svengali-20060421102339-9e701a3a48238575
+
+i 35
+1 1d67109aac0f537367a214967f85965943ae18d2
+n jdub@svengali-20060424173044-d0b3b30c6b934ec4
+
+i 36 31
+1 4041a501416cd314e3dad5dbbffde3118849b65c
+n jdub@svengali-20060424173528-2b894b48bffc2a45
+
+i 37
+1 24ff51758896da905a6e73dfc3bd399d3db5d5d6
+n jdub@svengali-20060426132700-71f16659879b8ded
+
+i 38 32
+1 2d5a2cc30d9fd504e226f183f9c59c1bde9b777b
+n jdub@svengali-20060426221956-522d023516f7029f
+
+i 20
+1 ed816f8efceab3bbbe5fddebe12bfb3f1022e34b
+n mary@puzzling.org-20060409091607-f8be8771fec38fcf
+
+i 40
+1 a8fdaccc83f706cfcb211863dc3b8a273755aeec
+n mary@puzzling.org-20060409091630-df92a67937e94c2d
+
+i 41 39
+1 b1b6c6b6be6903d47f811fa6a56bcc2d1f0c1dd7
+n mary@puzzling.org-20060429000736-a6fd9a1384c055a7
+
+i 42
+1 502ce78934e2cca4164ddfb29b186ceb6eb68b4c
+n mary@puzzling.org-20060429002526-9af129367b348f61
+
+i 43
+1 20f3215ad2b6de6b8787bd65ac7050fb65afdbec
+n mary@puzzling.org-20060429004624-801bf5c184f21d0d
+
+i 44
+1 2527bbde062816f7cbee794d21a7a66b01fce8df
+n mary@puzzling.org-20060429005440-aa0e8db9dc0048dd
+
+i 39 45
+1 98d56587dc3c4c0620151fd950569150037b3f61
+n jdub@svengali-20060429024450-1aa5a952f8687efa
+
+i 46
+1 c83e8ba02f8b44cd9dd0c7514616f46599e0d2b3
+n jdub@svengali-20060429151054-8e288fad1fa03425
+
+i 47
+1 22709af12175cc193e10832169516fb15111cf25
+n jdub@svengali-20060429160447-0146240be90da6c2
+
+i 48
+1 f449d47da28248c6079667761a828d29fa63cb81
+n rubys@intertwingly.net-20060501135225-595cc1813b986b49
+
+i 49
+1 f45e64e3eb99b8493ede33054277a9a34950c3d5
+n rubys@intertwingly.net-20060502154559-46f40185c80c6f19
+
+i 48 50
+1 84148149157888ce653d4414f5bde3b5f130b218
+n jdub@svengali-20060502164505-e2d2b798dbdf2215
+
+i 51
+1 fecd8a3bcc840d2527a743338899b841bea27811
+n mary@puzzling.org-20060503032448-b4df08fe14834cca
+
+i 52
+1 923fd8e90248acfe1d637d25fbb7e08486d8f5ff
+n mary@puzzling.org-20060503034939-4b2da48aa41077ec
+
+i 51 53
+1 9f5e0591c93125578c30d84713d90030a256c244
+n jdub@svengali-20060503042524-d22125ffa0913ddd
+
+i 54
+1 68012cc0032f510e7cd5fe7f8f009218f6cece15
+n jdub@svengali-20060503164302-4aed412bab3cd705
+
+i 55
+1 19c8ce7ab507b74faa7c414ffad4b4a2b3bf625b
+n rubys@intertwingly.net-20060508142956-55c76099e52e7b66
+
+i 56
+1 86bd29f06b95802b456beaef15b668447599ea26
+n rubys@intertwingly.net-20060508143119-1a850accef3957eb
+
+i 57
+1 10abf706661085a7ff972bf29e56232760cc4ef1
+n rubys@intertwingly.net-20060508144742-cbb3ebf9185a2c8a
+
+i 55
+1 9dae2d0b5df765d8d2766c467e69199648540423
+n jdub@svengali-20060504145447-8749b9206ab32210
+
+i 58
+1 e879a3c99844e54fb09fb34cd13cba6c7201f26e
+n rubys@intertwingly.net-20060508155025-c90cdee78cc6a8f9
+
+i 60
+1 c89c48fff872bb5527ae26a7b9877a305c284914
+n rubys@intertwingly.net-20060509010717-187bcdc16d702723
+
+i 61
+1 556cf5f6fab2108c63daf9a9b6b4b15762930525
+n rubys@intertwingly.net-20060509120437-841adf1934c62873
+
+i 59
+1 330ac391cc72bd29a43014950a6c780428bc6d6d
+n jdub@svengali-20060509042757-01a4f414dcf33658
+
+i 63 61
+1 66b44e69bfedf9b2ade57ea05e1382f4893ad090
+n jdub@svengali-20060509042920-1a7cb6d2e61b57de
+
+i 64
+1 2468988e9c560c07258755b3d8d8e5473489f988
+n jdub@svengali-20060509052427-15c27a3e72e94f57
+
+i 65 62
+1 0b5232c482d0ebe956ddccc00cc12c44c074e209
+n jdub@svengali-20060509141642-4cbb6f8514e3df23
+
+i 66
+1 34eba8099e0851ef3961b474c5dc6438bb17a283
+n rubys@intertwingly.net-20060512045907-e4e7baa333752135
+
+i 66 67
+1 61434b438a37b13897d3c436a06caaec199e5207
+n jdub@svengali-20060514170648-2634078a39df21f5
+
+i 68
+1 d0c9a14e1a89c819268ec687b6756076657502c3
+n jdub@svengali-20060514192250-46a81ffb8850245e
+
+i 55
+1 332e158ee2fbac4e49005f22e2b68628a82b38d0
+n mgedmin@b4net.lt-20060505211144-2a03f93992745337
+
+i 69
+1 f7ea5b5f22ee0527528f6631aa36951a1bfaa8e6
+n jdub@svengali-20060522015643-d4ad9042072c4d05
+
+i 71 70
+1 cf748f2c2c4647f47e014fa7ffaf01179c3346b4
+n jdub@svengali-20060522020518-e69d9457c23ce0d3
+
+i 72
+1 e3fa3e2455b11e5e259322a129ff6278b41b1ec4
+n jdub@svengali-20060522031145-428b8b9a1a0ed9e4
+
+i 73
+1 75db8a2c706fa2bc11eb24821267003bdaab8345
+n jdub@svengali-20060522033613-656362b3c4032c76
+
+i 74
+1 fc793538afd1e2609384d2e50efdfc1c87bc4034
+n rubys@intertwingly.net-20060522144746-1b4752cc5078711c
+
+i 74 75
+1 029feb8bba2ac128a58fa432d1f5427131470a33
+n jdub@svengali-20060522151016-c9a672ea45025aa0
+
+i 76
+1 e8748b634248042b81f287e6b7bb0ff4be6d4fa4
+n jdub@svengali-20060524171812-96152f874b6d5627
+
+i 77
+1 123ffc066834875d208c6e15541caa53eb5fa6a2
+n jdub@svengali-20060524171959-2ef7d5d2c7618352
+
+i 78
+1 55189ba563d415cf75cc68630046e13cab5cbbaa
+n jdub@svengali-20060524172051-f653c1266a930319
+
+i 79
+1 a7f3df91b8a93accd4ab550c8f366fdd321c5d7e
+n jdub@svengali-20060526062044-8c98f4dcf0bb5666
+
+i 80
+1 08edcb6996e36f41dcf389c007cb0f6e9fa5a526
+n jdub@svengali-20060531150517-8e4ef08c8c2caf53
+
+i 81
+1 1fb7657444449b879adf8810c0edd583f25efc10
+n jdub@svengali-20060531150522-2fbcb97b0c3b56b2
+
+i 82
+1 8b4a76a5f834b62312f44e28bf7a05c5233b2c43
+n mary-bzr@puzzling.org-20060625023154-f27af0d9d20f1f79
+
+i 34 76
+1 d7c0f8be91466ee5d764aed43ad3d11f1429cba4
+n jdub@svengali-20060522160429-a42bffe7f06b1ef7
+
+i 84 82
+1 bf3f1f430e6665f9e3a3dde93fcea88dce557ae3
+n jdub@perkypants.org-20060603065122-e66a52f097d26084
+
+i 82
+1 d6bd2381ed1f81c6546327a6ed824577c396b6d7
+n mary-bzr@puzzling.org-20060622084504-8f835c22c5a86de2
+
+i 82 86
+1 3edef40030312b4d908857d264dfaa2db8acae53
+n jdub@perkypants.org-20060625072131-a73fa47047927d0b
+
+i 87 83
+1 be25a907e27ed0979cf11161dcdd37eddfc2d6d2
+n jdub@perkypants.org-20060625072153-a6b20d6296a2c8a5
+
+i 88
+1 d7bef397ce89a6913d5b5c236cb99ced5a1dcd23
+n jdub@perkypants.org-20060811001109-b84b44ec0d4670b6
+
+i 85 88
+1 194c6075091e3c812a3f51e8a8147a475c2b4126
+n jdub@perkypants.org-20060726235324-b2ba827c2b7638e0
+
+i 89 90
+1 cb9bca1fceafd4df977e226cae286bb5c86661e5
+n jdub@perkypants.org-20070213082554-djhtgba5h0b49asg
+
+w
+{ 0
+[ 34
+[ 40
+. <inventory format="5">
+[ 14
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_01:24:22_2004_32569.0" name="AUTHORS" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="1f6ef7629ce247a7faa489bca2b1567b10ad7d2f" text_size="105" />
+] 14
+{ 14
+{ 22
+. <file file_id="bzrignore-20060421182125-0862b124baa0584f" name=".bzrignore" revision="rubys@intertwingly.net-20060421182224-8428a93f08f33483" text_sha1="6600afaa50ec68c6bbeae15b9bc076d0f813f1df" text_size="17" />
+}
+] 34
+{ 34
+[ 35
+. <inventory format="5" revision_id="jdub@svengali-20060409022418-8b5ecc87a35719db">
+}
+] 35
+{ 35
+[ 36
+. <inventory format="5" revision_id="jdub@svengali-20060421102339-9e701a3a48238575">
+}
+] 36
+{ 36
+[ 37
+. <inventory format="5" revision_id="jdub@svengali-20060424173044-d0b3b30c6b934ec4">
+}
+] 37
+{ 37
+[ 38
+. <inventory format="5" revision_id="jdub@svengali-20060424173528-2b894b48bffc2a45">
+] 38
+{ 38
+[ 39
+. <inventory format="5" revision_id="jdub@svengali-20060426132700-71f16659879b8ded">
+}
+] 39
+{ 39
+. <inventory format="5" revision_id="jdub@svengali-20060426221956-522d023516f7029f">
+}
+. <file file_id="bzrignore-20060421182125-0862b124baa0584f" name=".bzrignore" revision="rubys@intertwingly.net-20060421182224-8428a93f08f33483" text_sha1="6600afaa50ec68c6bbeae15b9bc076d0f813f1df" text_size="17" />
+}
+] 40
+{ 40
+[ 41
+. <inventory format="5" revision_id="mary@puzzling.org-20060409091607-f8be8771fec38fcf">
+}
+] 41
+{ 41
+[ 42
+. <inventory format="5" revision_id="mary@puzzling.org-20060409091630-df92a67937e94c2d">
+}
+] 42
+{ 42
+[ 43
+. <inventory format="5" revision_id="mary@puzzling.org-20060429000736-a6fd9a1384c055a7">
+] 43
+{ 43
+[ 44
+. <inventory format="5" revision_id="mary@puzzling.org-20060429002526-9af129367b348f61">
+}
+] 44
+{ 44
+[ 45
+. <inventory format="5" revision_id="mary@puzzling.org-20060429004624-801bf5c184f21d0d">
+}
+] 45
+{ 45
+[ 46
+. <inventory format="5" revision_id="mary@puzzling.org-20060429005440-aa0e8db9dc0048dd">
+}
+] 46
+{ 46
+[ 47
+. <inventory format="5" revision_id="jdub@svengali-20060429024450-1aa5a952f8687efa">
+}
+] 47
+{ 47
+[ 48
+. <inventory format="5" revision_id="jdub@svengali-20060429151054-8e288fad1fa03425">
+}
+] 48
+{ 48
+[ 49
+. <inventory format="5" revision_id="jdub@svengali-20060429160447-0146240be90da6c2">
+}
+] 49
+{ 49
+[ 51
+. <inventory format="5">
+}
+] 51
+{ 51
+[ 52
+. <inventory format="5" revision_id="jdub@svengali-20060502164505-e2d2b798dbdf2215">
+}
+] 52
+{ 52
+[ 53
+. <inventory format="5" revision_id="mary@puzzling.org-20060503032448-b4df08fe14834cca">
+}
+] 53
+{ 53
+[ 54
+. <inventory format="5" revision_id="mary@puzzling.org-20060503034939-4b2da48aa41077ec">
+}
+] 54
+{ 54
+[ 55
+. <inventory format="5" revision_id="jdub@svengali-20060503042524-d22125ffa0913ddd">
+}
+] 55
+{ 55
+[ 56
+[ 59
+[ 70
+. <inventory format="5" revision_id="jdub@svengali-20060503164302-4aed412bab3cd705">
+}
+] 59
+{ 59
+[ 63
+. <inventory format="5" revision_id="jdub@svengali-20060504145447-8749b9206ab32210">
+}
+] 63
+{ 63
+. <inventory format="5" revision_id="jdub@svengali-20060509042757-01a4f414dcf33658">
+}
+] 70
+{ 70
+. <inventory format="5" revision_id="mgedmin@b4net.lt-20060505211144-2a03f93992745337">
+}
+. <file file_id="bzrignore-20060421182125-0862b124baa0584f" name=".bzrignore" revision="rubys@intertwingly.net-20060421182224-8428a93f08f33483" text_sha1="6600afaa50ec68c6bbeae15b9bc076d0f813f1df" text_size="17" />
+}
+] 56
+{ 56
+[ 64
+. <inventory format="5">
+] 64
+{ 64
+[ 65
+. <inventory format="5" revision_id="jdub@svengali-20060509042920-1a7cb6d2e61b57de">
+}
+] 65
+{ 65
+[ 66
+. <inventory format="5" revision_id="jdub@svengali-20060509052427-15c27a3e72e94f57">
+}
+] 66
+{ 66
+[ 67
+. <inventory format="5" revision_id="jdub@svengali-20060509141642-4cbb6f8514e3df23">
+}
+] 67
+{ 67
+[ 68
+. <inventory format="5" revision_id="rubys@intertwingly.net-20060512045907-e4e7baa333752135">
+}
+] 68
+{ 68
+[ 69
+. <inventory format="5" revision_id="jdub@svengali-20060514170648-2634078a39df21f5">
+}
+] 69
+{ 69
+[ 71
+. <inventory format="5" revision_id="jdub@svengali-20060514192250-46a81ffb8850245e">
+}
+] 71
+{ 71
+[ 72
+. <inventory format="5" revision_id="jdub@svengali-20060522015643-d4ad9042072c4d05">
+}
+] 72
+{ 72
+[ 73
+. <inventory format="5" revision_id="jdub@svengali-20060522020518-e69d9457c23ce0d3">
+}
+] 73
+{ 73
+[ 74
+. <inventory format="5" revision_id="jdub@svengali-20060522031145-428b8b9a1a0ed9e4">
+}
+] 74
+{ 74
+[ 75
+. <inventory format="5" revision_id="jdub@svengali-20060522033613-656362b3c4032c76">
+}
+] 75
+{ 75
+[ 76
+. <inventory format="5">
+}
+] 76
+{ 76
+[ 77
+[ 84
+. <inventory format="5" revision_id="jdub@svengali-20060522151016-c9a672ea45025aa0">
+}
+] 77
+{ 77
+[ 78
+. <inventory format="5" revision_id="jdub@svengali-20060524171812-96152f874b6d5627">
+}
+] 78
+{ 78
+[ 79
+. <inventory format="5" revision_id="jdub@svengali-20060524171959-2ef7d5d2c7618352">
+}
+] 79
+{ 79
+[ 80
+. <inventory format="5" revision_id="jdub@svengali-20060524172051-f653c1266a930319">
+}
+] 80
+{ 80
+[ 81
+. <inventory format="5" revision_id="jdub@svengali-20060526062044-8c98f4dcf0bb5666">
+}
+] 81
+{ 81
+[ 82
+. <inventory format="5" revision_id="jdub@svengali-20060531150517-8e4ef08c8c2caf53">
+}
+] 82
+{ 82
+[ 83
+[ 86
+. <inventory format="5" revision_id="jdub@svengali-20060531150522-2fbcb97b0c3b56b2">
+}
+] 83
+{ 83
+. <inventory format="5" revision_id="mary-bzr@puzzling.org-20060625023154-f27af0d9d20f1f79">
+}
+] 84
+{ 84
+[ 85
+. <inventory format="5" revision_id="jdub@svengali-20060522160429-a42bffe7f06b1ef7">
+}
+] 85
+{ 85
+. <inventory format="5" revision_id="jdub@perkypants.org-20060603065122-e66a52f097d26084">
+}
+] 86
+{ 86
+[ 87
+. <inventory format="5" revision_id="mary-bzr@puzzling.org-20060622084504-8f835c22c5a86de2">
+}
+] 87
+{ 87
+[ 88
+. <inventory format="5" revision_id="jdub@perkypants.org-20060625072131-a73fa47047927d0b">
+}
+] 88
+{ 88
+[ 89
+[ 90
+. <inventory format="5" revision_id="jdub@perkypants.org-20060625072153-a6b20d6296a2c8a5">
+}
+] 89
+{ 89
+. <inventory format="5" revision_id="jdub@perkypants.org-20060811001109-b84b44ec0d4670b6">
+}
+] 90
+{ 90
+[ 91
+. <inventory format="5" revision_id="jdub@perkypants.org-20060726235324-b2ba827c2b7638e0">
+}
+] 91
+{ 91
+. <inventory format="5" revision_id="jdub@perkypants.org-20070213082554-djhtgba5h0b49asg">
+}
+. <file file_id="bzrignore-20060421182125-0862b124baa0584f" name=".bzrignore" revision="rubys@intertwingly.net-20060508142956-55c76099e52e7b66" text_sha1="2f9159a29a2e4bb96c5590aadeeff4c6b9de2599" text_size="38" />
+}
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_01:24:22_2004_32569.0" name="AUTHORS" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-14" text_sha1="e4c0d0cfc30eeda10bd59444770376383d37fce3" text_size="74" />
+}
+[ 15
+. <file file_id="i_automatic-ChangeLog--scott@netsplit.com--2004%2fplanet--devel--1.0" name="ChangeLog" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="e66ff660de1963523b8fc21591ace9e0f628798e" text_size="37154" />
+] 15
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.2" name="INSTALL" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="a0e669efe8de9c3aa525d4000ef84797cba0a176" text_size="5858" />
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Jul_18_12:34:58_2004_30870.0" name="LICENCE" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="4c60e7456b3749a3f48ba814e54155e42d5c732b" text_size="11932" />
+[ 14
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:51:53_2004_8825.0" name="MANIFEST.in" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="c58e074cea874fd4053026cf5ae56ec45ba981fc" text_size="222" />
+] 14
+{ 14
+[ 16
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:51:53_2004_8825.0" name="MANIFEST.in" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-14" text_sha1="26dda7e7ea0895f664d45257a375c8c5f12f14f9" text_size="202" />
+}
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Mon_Jul_19_00:26:22_2004_312.0" name="NEWS" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="34a88c447fa929004f2c21ce1390ab3b8815170f" text_size="1131" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.3" name="README" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="ab0d10bde8544f0ceac348d98370493dcb226240" text_size="503" />
+[ 12
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Apr_28_15:47:37_2004_13209.0" name="THANKS" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="3dd193dc202edfd6e8f74c0532a2c501f3001245" text_size="315" />
+] 12
+{ 12
+] 16
+{ 16
+[ 17
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:51:53_2004_8825.0" name="MANIFEST.in" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" text_sha1="a1e8f8a8f14c09c38baf7a3adc30914f614e3c26" text_size="146" />
+] 17
+{ 17
+[ 18
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:51:53_2004_8825.0" name="MANIFEST.in" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-17" text_sha1="46df0c8b64f9c53d7df0d30b53768e1801e0662d" text_size="128" />
+}
+] 18
+{ 18
+[ 55
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:51:53_2004_8825.0" name="MANIFEST.in" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-18" text_sha1="ca84941b23cff6948f57386222857627a6cd6654" text_size="135" />
+}
+] 55
+{ 55
+[ 59
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:51:53_2004_8825.0" name="MANIFEST.in" revision="jdub@svengali-20060503164302-4aed412bab3cd705" text_sha1="7630389028b6431f37b24555c16cc7eca0703759" text_size="165" />
+}
+] 59
+{ 59
+[ 63
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:51:53_2004_8825.0" name="MANIFEST.in" revision="jdub@svengali-20060504145447-8749b9206ab32210" text_sha1="0a46d49ee1e50dedc9ed76f5ccca8bbd1734f7d6" text_size="203" />
+}
+] 63
+{ 63
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:51:53_2004_8825.0" name="MANIFEST.in" revision="jdub@svengali-20060509042757-01a4f414dcf33658" text_sha1="d9544f54bc0bf6d6bed19342ab2e2d5ee91f7d5b" text_size="260" />
+}
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Mon_Jul_19_00:26:22_2004_312.0" name="NEWS" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" text_sha1="68b5bf3ddb40e43612fc3af198c27aacca90b728" text_size="41" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.3" name="README" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" text_sha1="9496a7b810e3c520a6387cbb025293f167b7abc6" text_size="426" />
+}
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Apr_28_15:47:37_2004_13209.0" name="THANKS" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-12" text_sha1="3029475854489d5527e6d57523daacc3473ab494" text_size="388" />
+}
+[ 16
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sun_May_30_22:39:31_2004_8893.0" name="TODO" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="30c9bdd0dda2c273ecf9b956835340bcfd9dbf6c" text_size="2260" />
+. <directory file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.1" name="cache" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" />
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Sep_14_13:55:51_2004_14927.0" name=".empty" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.1" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" text_size="0" />
+] 16
+{ 16
+[ 20
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sun_May_30_22:39:31_2004_8893.0" name="TODO" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" text_sha1="34ec7b8b10271b9a30da97bed292fe33ebeedea5" text_size="857" />
+}
+] 20
+{ 20
+[ 55
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sun_May_30_22:39:31_2004_8893.0" name="TODO" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-20" text_sha1="beb7f6032ffa212acf680c4606c2c9c24fcf090c" text_size="1230" />
+}
+] 55
+{ 55
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sun_May_30_22:39:31_2004_8893.0" name="TODO" revision="jdub@svengali-20060503164302-4aed412bab3cd705" text_sha1="34ec7b8b10271b9a30da97bed292fe33ebeedea5" text_size="857" />
+}
+. <directory file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" name="examples" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" />
+{ 7
+[ 8
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jul_20_00:04:06_2005_30229.0" name="atom.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-7" text_sha1="4c2d2a941c8d6d5ad9caa76cf527311f68772082" text_size="1059" />
+}
+] 8
+{ 8
+[ 23
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jul_20_00:04:06_2005_30229.0" name="atom.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-8" text_sha1="b7e1e09b8d7c664e4b74e93e77610d2ae9c18c44" text_size="954" />
+}
+] 23
+{ 23
+[ 31
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jul_20_00:04:06_2005_30229.0" name="atom.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="rubys@intertwingly.net-20060422023150-7c78d4dd2f916a25" text_sha1="0cc9fed5954b8d7ab7bbef9f1cf3af37c257b50e" text_size="962" />
+}
+] 31
+{ 31
+[ 60
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jul_20_00:04:06_2005_30229.0" name="atom.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="rubys@intertwingly.net-20060424155523-b7eaadf9d8c67215" text_sha1="0cd8403404280cc5807fd9201221b56845e87130" text_size="990" />
+}
+] 60
+{ 60
+[ 61
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jul_20_00:04:06_2005_30229.0" name="atom.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="rubys@intertwingly.net-20060508155025-c90cdee78cc6a8f9" text_sha1="c1d7edbeba71e10298ea0632174e08dbd0c96604" text_size="2263" />
+}
+] 61
+{ 61
+[ 67
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jul_20_00:04:06_2005_30229.0" name="atom.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="rubys@intertwingly.net-20060509010717-187bcdc16d702723" text_sha1="422f2fa3035ce0744ced456c5668eebbdd8de3cd" text_size="2235" />
+}
+] 67
+{ 67
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jul_20_00:04:06_2005_30229.0" name="atom.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="rubys@intertwingly.net-20060512045907-e4e7baa333752135" text_sha1="28d3d22cead17f0b9032cd34c3315983fc539106" text_size="2247" />
+}
+. <directory file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.0" name="basic" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" />
+[ 6
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.5" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="8e9933c47d7658ce866e18b8a20bfec6998ecf75" text_size="2841" />
+] 6
+{ 6
+[ 9
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.5" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-6" text_sha1="4d194741b897aef57d960f56d441c8202b00efee" text_size="2789" />
+}
+] 9
+{ 9
+[ 16
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.5" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-9" text_sha1="ba67873ed12586675403f2c4d18fc7ca2112d94f" text_size="2846" />
+}
+] 16
+{ 16
+[ 71
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.5" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" text_sha1="5074ed6c65a0e8c28aaa0142ef5a7c1f74a6ba83" text_size="2864" />
+}
+] 71
+{ 71
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.5" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.0" revision="jdub@svengali-20060522015643-d4ad9042072c4d05" text_sha1="c85fa1edf0f053ffc9ecdb69ecdaceccdd40a3f9" text_size="2962" />
+}
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_03:39:56_2004_31901.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="aaaa62e8efe9d1eef461be190331e6146cdb1231" text_size="2741" />
+{ 16
+. <directory file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.1" name="cache" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" />
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Sep_14_13:55:51_2004_14927.0" name=".empty" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.1" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" text_size="0" />
+}
+. <directory file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" name="fancy" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" />
+[ 6
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:07_2004_20647.0" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="ecd3895a0ecd992fef4b7e7c4b258e1563930822" text_size="3415" />
+[ 4
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="c5ca8b7d978341c92d5167389d44dd2ac15e055f" text_size="3358" />
+] 4
+{ 4
+] 6
+{ 6
+[ 16
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:07_2004_20647.0" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-6" text_sha1="d974142f489b95fe0d9810e230a333cde52a3962" text_size="3311" />
+}
+] 16
+{ 16
+[ 49
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:07_2004_20647.0" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" text_sha1="4f053169d4e7db7234cdb1fe0805e4d7d5019bf0" text_size="3329" />
+}
+[ 22
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-4" text_sha1="57342e41c2598467d35b96651c979030712d5c97" text_size="3773" />
+}
+] 22
+{ 22
+[ 23
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060421182224-8428a93f08f33483" text_sha1="62eb87f90ea0b6876a0bca2b0f7924f7c37ba4eb" text_size="3838" />
+}
+] 23
+{ 23
+[ 25
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060422023150-7c78d4dd2f916a25" text_sha1="9761bd84e66247f638ba1431168fb896e8ca55c9" text_size="3974" />
+}
+] 25
+{ 25
+[ 26
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060422134605-fbf36a42e433d193" text_sha1="168e12e02b566f52bf60c2b6b1c0dc621a192de9" text_size="3976" />
+}
+] 26
+{ 26
+[ 27
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060422235834-b915133a5c4f6173" text_sha1="5c66c1033837d1b2a1f327492ae0d4e4a44306da" text_size="3994" />
+}
+] 27
+{ 27
+[ 28
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060423021110-739e517f1b2cfc58" text_sha1="fe00ae61f045b95548b2fb30dfb7efbd04cef410" text_size="4036" />
+}
+] 28
+{ 28
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060423193231-5f53e4c5d33d42f5" text_sha1="d44867fe027a5bfac335504b4178a12bb62c502a" text_size="4060" />
+}
+[ 48
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sun_Jan_11_01:27:22_2004_29866.0" name="foafroll.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="5f81e5d86c7b76fbb65c81bc9c20d00464954907" text_size="873" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_23:26:27_2004_28501.0" name="opml.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="d58f156aa8e3df2f0f6a0449f5b64c88a8259f55" text_size="443" />
+[ 16
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_22:26:09_2004_27552.0" name="rss10.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="e11b70a5cb130433cf7ef07f2db04ea2e909a0fe" text_size="1056" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_21:03:34_2004_26432.0" name="rss20.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="a79aa99ad269dc92f7da2e1106459646bca10779" text_size="715" />
+. <directory file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.0" name="output" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" />
+] 16
+{ 16
+] 48
+{ 48
+] 49
+{ 49
+[ 62
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:07_2004_20647.0" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060501135225-595cc1813b986b49" text_sha1="8b97a048cab1f462471b83e0015cc39d8da54ef8" text_size="3467" />
+[ 58
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060501135225-595cc1813b986b49" text_sha1="2e2cf0a257bc9c9ee3452f70c8627880acfcff9c" text_size="4178" />
+}
+] 58
+{ 58
+] 62
+{ 62
+[ 71
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:07_2004_20647.0" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060509120437-841adf1934c62873" text_sha1="3c885391f7f8bdaa232b4ae54193561874cfb2d6" text_size="3546" />
+}
+] 71
+{ 71
+[ 89
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:07_2004_20647.0" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="jdub@svengali-20060522015643-d4ad9042072c4d05" text_sha1="2850e7072a7e15ad86f5e3304ee303d9ee028141" text_size="3644" />
+}
+] 89
+{ 89
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:07_2004_20647.0" name="config.ini" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="jdub@perkypants.org-20060811001109-b84b44ec0d4670b6" text_sha1="6379ac8ad3ee6fbe20f07e5ef3b70ff72b0aef75" text_size="3631" />
+}
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_21:43:09_2004_20649.0" name="index.html.tmpl" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:22:01_2004_11419.1" revision="rubys@intertwingly.net-20060508144742-cbb3ebf9185a2c8a" text_sha1="d8b30b17c551a1260fbf2393f774a498f6d58fe7" text_size="4403" />
+}
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sun_Jan_11_01:27:22_2004_29866.0" name="foafroll.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="jdub@svengali-20060429160447-0146240be90da6c2" text_sha1="ab808e16b86b5b18ddd0458133dedfa15eed3215" text_size="921" />
+[ 50
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_23:26:27_2004_28501.0" name="opml.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="jdub@svengali-20060429160447-0146240be90da6c2" text_sha1="7e64a58448453c14d582b144d84ca92d9cbc1f6e" text_size="457" />
+}
+] 50
+{ 50
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_23:26:27_2004_28501.0" name="opml.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="rubys@intertwingly.net-20060502154559-46f40185c80c6f19" text_sha1="c4ffc641bf75e421a4080c1fd16784db4b43f2f6" text_size="626" />
+}
+. <directory file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.0" name="output" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16" />
+}
+. <directory file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" name="images" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" />
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:04:12_2004_20709.0" name="edd.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="973ae514cee10588ed2ab83bd1e33d31b3806318" text_size="9918" />
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:04:12_2004_20709.1" name="evolution.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="2c68180e0b762bfa8e9a55ce419812ef4cae478f" text_size="5182" />
+{ 22
+. <file file_id="feedicon10x10.png-20060421181840-63fac2ab03d52356" name="feed-icon-10x10.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="rubys@intertwingly.net-20060421182224-8428a93f08f33483" text_sha1="5382dcdbcdbfe5693ff3426ac90df1e3343e6f81" text_size="469" />
+}
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:04:12_2004_20709.2" name="jdub.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="90a80ffbf53621bcbaaca7f350d3aedf426aac7c" text_size="9814" />
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:04:12_2004_20709.3" name="keybuk.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="aeade425673e7c0ff9fa458c23e4ce963595969c" text_size="8496" />
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:04:12_2004_20709.4" name="logo.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="bff805bf043a3c62de28bbd23287ee493e6e1c4a" text_size="5413" />
+{ 50
+. <file file_id="opml.png-20060501202120-a25cc04ed7209415" name="opml.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="rubys@intertwingly.net-20060502154559-46f40185c80c6f19" text_sha1="d5c62c617556c375598dd2b737dcf353d52bfc3a" text_size="804" />
+}
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:04:12_2004_20709.5" name="planet.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="1e4757402da3af2ad98ad6747dd95bb9e9577da7" text_size="426" />
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:04:12_2004_20709.6" name="thom.png" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_20:07:05_2004_20179.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="eede5f213284b0783dd033c3ff5c6521905f4975" text_size="7257" />
+[ 22
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:03:51_2004_20700.0" name="planet.css" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="8450946dafce71b01ab05e1e6d45ac1ed0f94814" text_size="1641" />
+{ 16
+] 22
+{ 22
+[ 49
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:03:51_2004_20700.0" name="planet.css" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.0" revision="rubys@intertwingly.net-20060421182224-8428a93f08f33483" text_sha1="7b8650d949bab1ae8104df25ccab9fa22be0b645" text_size="1802" />
+}
+[ 34
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_22:26:09_2004_27552.0" name="rss10.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="e11b70a5cb130433cf7ef07f2db04ea2e909a0fe" text_size="1056" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_21:03:34_2004_26432.0" name="rss20.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="a79aa99ad269dc92f7da2e1106459646bca10779" text_size="715" />
+}
+] 34
+{ 34
+[ 38
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_22:26:09_2004_27552.0" name="rss10.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="jdub@svengali-20060409022418-8b5ecc87a35719db" text_sha1="57c349db972523b0f4a4148b65563b0dfb13ba26" text_size="1112" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_21:03:34_2004_26432.0" name="rss20.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="jdub@svengali-20060409022418-8b5ecc87a35719db" text_sha1="58c7050773b6b64f311f526e8976384bcaba9ffc" text_size="757" />
+}
+] 38
+{ 38
+] 49
+{ 49
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Apr_25_22:03:51_2004_20700.0" name="planet.css" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_17:11:08_2004_5099.0" revision="rubys@intertwingly.net-20060501135225-595cc1813b986b49" text_sha1="6723e6f74440973f99ddfd070d82be271b7f4b4c" text_size="2017" />
+}
+[ 80
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_22:26:09_2004_27552.0" name="rss10.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="jdub@svengali-20060426132700-71f16659879b8ded" text_sha1="6e9d11df0113bb990ce07a71d48317e221fae249" text_size="1118" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_21:03:34_2004_26432.0" name="rss20.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="jdub@svengali-20060426132700-71f16659879b8ded" text_sha1="942a754fafea444e520c7a5add52be1928afe0f1" text_size="763" />
+}
+] 80
+{ 80
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_22:26:09_2004_27552.0" name="rss10.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="jdub@svengali-20060526062044-8c98f4dcf0bb5666" text_sha1="41208b523b1178e7fd5a47776c68e7d8b06a5583" text_size="1128" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_21:03:34_2004_26432.0" name="rss20.xml.tmpl" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Fri_Jan__9_01:25:05_2004_27233.0" revision="jdub@svengali-20060526062044-8c98f4dcf0bb5666" text_sha1="da17f57763c554c6d5b37aab480dface7543fe54" text_size="838" />
+}
+. <directory file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" name="planet" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" />
+[ 2
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="a8f3b5e02f902a24d65152bf3c1924267cef59de" text_size="20786" />
+] 2
+{ 2
+[ 3
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-2" text_sha1="d7c0d266bf33aa968dc084599c4b74eb98d5dda9" text_size="21354" />
+}
+] 3
+{ 3
+[ 4
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-3" text_sha1="990782150f1d7ee6abad470127e221246ecc1c3b" text_size="22029" />
+}
+] 4
+{ 4
+[ 9
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-4" text_sha1="3cb616ea0e8c286a7ed4135566299607f07dac23" text_size="23202" />
+}
+] 9
+{ 9
+[ 12
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-9" text_sha1="145bea878d1e1ff6e26abf2523d302c254db7248" text_size="23293" />
+}
+] 12
+{ 12
+[ 13
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-12" text_sha1="05723d21b1d2c0c6fd6052bde0571d5b3c4c451e" text_size="23288" />
+}
+] 13
+{ 13
+[ 21
+[ 36
+[ 40
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-13" text_sha1="db4bf9c5d1929055d0226add0227260319e0e2b6" text_size="23344" />
+}
+[ 19
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Jul_18_14:25:29_2004_30009.0" name="cache.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="f40f67d481b89176f5004101fb1dd757f1d831c0" text_size="8884" />
+] 19
+{ 19
+] 21
+{ 21
+[ 24
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060421180025-a09e8a75b44df0dc" text_sha1="f38f07b5eac4dfb7ed62d50ba0c10f2dcd4e151b" text_size="23413" />
+}
+] 24
+{ 24
+[ 27
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060422124840-1b2ba6db416d5b9f" text_sha1="8f84dca2bc951bb6f2233823048fcc11597350c3" text_size="23907" />
+] 27
+{ 27
+[ 32
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060423021110-739e517f1b2cfc58" text_sha1="3e4e6d372e508c64726c80cf176195763b3bd41d" text_size="24474" />
+}
+[ 29
+. <file file_id="atomstyler.py-20060422115045-508841337b46a73d" name="atomstyler.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060422124840-1b2ba6db416d5b9f" text_sha1="8ea2ee71acec4e6046a12af0f21f90d14ac065fd" text_size="3374" />
+}
+] 29
+{ 29
+] 32
+{ 32
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060424181443-55864de13418cca5" text_sha1="a1f93d46766c246589961b2d80f781e0b42b7de7" text_size="24541" />
+}
+. <file file_id="atomstyler.py-20060422115045-508841337b46a73d" name="atomstyler.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060423221402-0892fd4c924a21c6" text_sha1="57c745b2f71ebc36ea047d7fa0fca4eeb15fd97c" text_size="3927" />
+}
+] 36
+{ 36
+[ 37
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060424173044-d0b3b30c6b934ec4" text_sha1="ddadd1694237a7d4c67f7ac53431d78531301ffe" text_size="23450" />
+}
+] 37
+{ 37
+[ 39
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060424173528-2b894b48bffc2a45" text_sha1="3e4e6d372e508c64726c80cf176195763b3bd41d" text_size="24474" />
+] 39
+{ 39
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060426221956-522d023516f7029f" text_sha1="a1f93d46766c246589961b2d80f781e0b42b7de7" text_size="24541" />
+}
+. <file file_id="atomstyler.py-20060422115045-508841337b46a73d" name="atomstyler.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060423221402-0892fd4c924a21c6" text_sha1="57c745b2f71ebc36ea047d7fa0fca4eeb15fd97c" text_size="3927" />
+}
+] 40
+{ 40
+[ 42
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="mary@puzzling.org-20060409091607-f8be8771fec38fcf" text_sha1="d2d8284defc4eeace1fd8aff0dbd71f3d6015360" text_size="30678" />
+}
+] 42
+{ 42
+[ 43
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="mary@puzzling.org-20060429000736-a6fd9a1384c055a7" text_sha1="84de720f31f540d6c9c52e34450d73bab89436fe" text_size="32142" />
+] 43
+{ 43
+[ 44
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="mary@puzzling.org-20060429002526-9af129367b348f61" text_sha1="d4446bb321dd251a905393b4bb3636ea576a32d8" text_size="32148" />
+}
+] 44
+{ 44
+[ 45
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="mary@puzzling.org-20060429004624-801bf5c184f21d0d" text_sha1="e24c737b75a512fb72c5ef0f0367ac392634bb86" text_size="32134" />
+}
+] 45
+{ 45
+[ 47
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="mary@puzzling.org-20060429005440-aa0e8db9dc0048dd" text_sha1="c04c17f7cd9c2cb2a04b81acbb62cf4813d60c67" text_size="32431" />
+}
+] 47
+{ 47
+[ 49
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060429151054-8e288fad1fa03425" text_sha1="b2d4c00b128c073bab5586469c9a14ccd4b9cb4e" text_size="32441" />
+}
+] 49
+{ 49
+[ 52
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060501135225-595cc1813b986b49" text_sha1="6212b3f89f2489fa01142a23891ce046cc7b282c" text_size="34323" />
+}
+] 52
+{ 52
+[ 58
+[ 70
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="mary@puzzling.org-20060503032448-b4df08fe14834cca" text_sha1="9e0f924211a2a91540db045cc8335bed5d745819" text_size="35173" />
+}
+] 70
+{ 70
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="mgedmin@b4net.lt-20060505211144-2a03f93992745337" text_sha1="fe6b178e95034685231446df2b3c7f264565477c" text_size="35298" />
+}
+. <file file_id="atomstyler.py-20060422115045-508841337b46a73d" name="atomstyler.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060423221402-0892fd4c924a21c6" text_sha1="57c745b2f71ebc36ea047d7fa0fca4eeb15fd97c" text_size="3927" />
+}
+] 58
+{ 58
+[ 62
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060508144742-cbb3ebf9185a2c8a" text_sha1="d1608489860be11f973717c53fd1ce6f693e80a2" text_size="36545" />
+[ 61
+. <file file_id="atomstyler.py-20060422115045-508841337b46a73d" name="atomstyler.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060508144742-cbb3ebf9185a2c8a" text_sha1="14bd941ad38b7c1ad32b9d4eefddf64273a33ddb" text_size="4121" />
+}
+] 61
+{ 61
+] 62
+{ 62
+[ 69
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060509120437-841adf1934c62873" text_sha1="13cf1c6f585bf338eedd08b650890fe0e0cf548b" text_size="36837" />
+}
+[ 67
+. <file file_id="atomstyler.py-20060422115045-508841337b46a73d" name="atomstyler.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060509010717-187bcdc16d702723" text_sha1="07638c7140f7ffbe7d65fd101ab846823a8e879c" text_size="4238" />
+}
+] 67
+{ 67
+] 69
+{ 69
+[ 72
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060514192250-46a81ffb8850245e" text_sha1="a2b4b52a89d4ffd10910eccdaa550b863fc4d694" text_size="36965" />
+}
+] 72
+{ 72
+[ 73
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060522020518-e69d9457c23ce0d3" text_sha1="37f5d55da1559469f9d2d0dcb38b238f47fd2211" text_size="37090" />
+}
+] 73
+{ 73
+[ 74
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060522031145-428b8b9a1a0ed9e4" text_sha1="53c7a7b076b8e009f9a28505efbd7ac18fce4a73" text_size="36983" />
+}
+] 74
+{ 74
+[ 75
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060522033613-656362b3c4032c76" text_sha1="fe8d0952e8378dac35582dd7a1df038d2b7d9bbb" text_size="37092" />
+}
+] 75
+{ 75
+[ 77
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060522144746-1b4752cc5078711c" text_sha1="e4c481659ce07ce373f15fe931ba5fb4762c257d" text_size="37857" />
+}
+] 77
+{ 77
+[ 78
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060524171812-96152f874b6d5627" text_sha1="3ea23b4ae2bef26ec208fe55cea519a07e28a100" text_size="37988" />
+}
+] 78
+{ 78
+[ 79
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060524171959-2ef7d5d2c7618352" text_sha1="ef9c44ee84784ddc693af49bf028880fdf2a3ed4" text_size="38004" />
+}
+] 79
+{ 79
+[ 81
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060524172051-f653c1266a930319" text_sha1="1deb0374400e9174361f08ee0a45c2cb61a898b7" text_size="37997" />
+}
+] 81
+{ 81
+[ 82
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060531150517-8e4ef08c8c2caf53" text_sha1="15f32a38e8c24fea5ac4d6e3c77c0e9bc5fc8a39" text_size="38063" />
+}
+] 82
+{ 82
+[ 90
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060531150522-2fbcb97b0c3b56b2" text_sha1="c81b398e29b74812c5f7af3825ac91626f6548a6" text_size="38145" />
+}
+] 90
+{ 90
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jan_10_01:34:57_2004_31587.0" name="__init__.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@perkypants.org-20060726235324-b2ba827c2b7638e0" text_sha1="0fa75938c4c2baef3348ac61c67119815c5ea04f" text_size="38145" />
+}
+. <file file_id="atomstyler.py-20060422115045-508841337b46a73d" name="atomstyler.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060512045907-e4e7baa333752135" text_sha1="769e52838d819d2189df0afb75b64184ea16aa6f" text_size="4315" />
+}
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sun_Jul_18_14:25:29_2004_30009.0" name="cache.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-19" text_sha1="166c3f6894855708658cfbcf31ae54e5e0284d9d" text_size="8887" />
+}
+. <directory file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_20:11:22_2004_25656.0" name="compat_logging" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_20:11:30_2004_25660.0" name="__init__.py" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_20:11:22_2004_25656.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="67e33c7b6cdacc1a8ca5effc47f680ccec82cdaf" text_size="39876" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_20:11:30_2004_25660.1" name="config.py" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_20:11:22_2004_25656.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="96b96f94bef2a26833e1cb84f76dd0adedc46b62" text_size="11850" />
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_20:11:30_2004_25660.2" name="handlers.py" parent_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan_10_20:11:22_2004_25656.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="f27b19e165707ef0da25930d4cc52be79bab7c0a" text_size="26291" />
+[ 5
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="a87221d0cf297f20e11ce85c3048d385a8cdf91b" text_size="110504" />
+[ 4
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.7" name="htmltmpl.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="381a7cd8f0444e7e43b91ea2503e86e448cf466d" text_size="58705" />
+] 4
+{ 4
+] 5
+{ 5
+[ 11
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-5" text_sha1="838a224ea296f9d7ca598ba5b96f192155386a0a" text_size="110507" />
+}
+] 11
+{ 11
+[ 21
+[ 36
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-11" text_sha1="5b7b98be7c253dc9b00ed29755087fcda1f3ed5e" text_size="110521" />
+}
+] 21
+{ 21
+[ 29
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060421180025-a09e8a75b44df0dc" text_sha1="f9c2a4b3a4b2a586e74da8fdcf1760fe3a96c818" text_size="122933" />
+}
+] 29
+{ 29
+[ 30
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060423221402-0892fd4c924a21c6" text_sha1="5c6bad92f31ca36b0c75295f9f412edcd4d218e1" text_size="123790" />
+}
+] 30
+{ 30
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060424143554-536ea0a99706b48d" text_sha1="5d31f6489d178d9bbc6fc51e5d60e6a5330ec310" text_size="124172" />
+}
+] 36
+{ 36
+[ 37
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060424173044-d0b3b30c6b934ec4" text_sha1="f9c2a4b3a4b2a586e74da8fdcf1760fe3a96c818" text_size="122933" />
+}
+] 37
+{ 37
+[ 58
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="jdub@svengali-20060424173528-2b894b48bffc2a45" text_sha1="5d31f6489d178d9bbc6fc51e5d60e6a5330ec310" text_size="124172" />
+}
+] 58
+{ 58
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Wed_Jan__7_17:24:53_2004_8400.0" name="feedparser.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060508144742-cbb3ebf9185a2c8a" text_sha1="b8f8ebf0dc395228454f2de5b81eaff00827719a" text_size="126446" />
+}
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.7" name="htmltmpl.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-4" text_sha1="291c66493ec9e9a35a4dda1fab492f3c1c90728e" text_size="58705" />
+}
+{ 24
+[ 29
+. <file file_id="sanitize.py-20060422115045-95cb957b5a5e68c0" name="sanitize.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060422124840-1b2ba6db416d5b9f" text_sha1="b4916c59cb8836e69b21b61b444c45c723dc5ba8" text_size="10443" />
+. <file file_id="sanitize_test.py-20060422115045-9e0203fbec53f374" name="sanitize_test.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060422124840-1b2ba6db416d5b9f" text_sha1="e11128d5877ca5711314e05284b2c8e97ae0add9" text_size="5827" />
+}
+] 29
+{ 29
+. <file file_id="sanitize.py-20060422115045-95cb957b5a5e68c0" name="sanitize.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060423221402-0892fd4c924a21c6" text_sha1="4d6fa53e2401358bba5627b2f6d50215c1d4295e" text_size="13904" />
+[ 56
+. <file file_id="sanitize_test.py-20060422115045-9e0203fbec53f374" name="sanitize_test.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="rubys@intertwingly.net-20060423221402-0892fd4c924a21c6" text_sha1="b90c76734eafcd224181931dcedaf6de8dc88fdc" text_size="6221" />
+}
+{ 40
+] 56
+. <directory file_id="tests-20060409080131-e6c1ae6dfd841c07" name="tests" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="mary@puzzling.org-20060409091607-f8be8771fec38fcf" />
+. <file file_id="__init__.py-20060409080153-edf591dbe1081d4c" name="__init__.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary@puzzling.org-20060409091607-f8be8771fec38fcf" text_sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" text_size="0" />
+{ 73
+. <directory file_id="data-20060522010134-da65f225f8a33519" name="data" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="jdub@svengali-20060522031145-428b8b9a1a0ed9e4" />
+. <file file_id="after.atom-20060522010134-9618cd4394ed3649" name="after.atom" parent_id="data-20060522010134-da65f225f8a33519" revision="jdub@svengali-20060522031145-428b8b9a1a0ed9e4" text_sha1="56c4bd07b99ba5fa833f165065d461c28a6062c5" text_size="872" />
+{ 74
+. <file file_id="after.rss-20060522031337-453d293b439d4242" name="after.rss" parent_id="data-20060522010134-da65f225f8a33519" revision="jdub@svengali-20060522033613-656362b3c4032c76" text_sha1="9a10a2968d4e70065614798edd0d6a77343dd7cf" text_size="692" />
+}
+. <file file_id="before.atom-20060522010134-1d808adcd92d323a" name="before.atom" parent_id="data-20060522010134-da65f225f8a33519" revision="jdub@svengali-20060522031145-428b8b9a1a0ed9e4" text_sha1="02568b19c22bf2464af4d2f6d6af26b72dad06db" text_size="809" />
+}
+{ 74
+. <file file_id="before.rss-20060522031337-fa633610f397150c" name="before.rss" parent_id="data-20060522010134-da65f225f8a33519" revision="jdub@svengali-20060522033613-656362b3c4032c76" text_sha1="5feb15bb3bca7fb0788d31cbb221f6d8c8af0ba5" text_size="689" />
+}
+[ 83
+. <file file_id="simple.tmpl-20060409084513-d04cdc93b9ede187" name="simple.tmpl" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary@puzzling.org-20060409091607-f8be8771fec38fcf" text_sha1="fc92209f15db5ae861bbd13cbafbf14903550a4a" text_size="51" />
+. <file file_id="simple2.tmpl-20060409084514-3360e3050c257a6a" name="simple2.tmpl" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary@puzzling.org-20060409091607-f8be8771fec38fcf" text_sha1="fc92209f15db5ae861bbd13cbafbf14903550a4a" text_size="51" />
+}
+{ 41
+[ 43
+. <file file_id="test_main.py-20060409091623-bb212d4b200c8c35" name="test_main.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary@puzzling.org-20060409091630-df92a67937e94c2d" text_sha1="98f38128e11a36ec37f0aa5f1d847fb14444df3a" text_size="1683" />
+}
+] 43
+{ 43
+{ 52
+[ 53
+. <file file_id="test_channel.py-20060503032407-cf7abab88c238a72" name="test_channel.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary@puzzling.org-20060503032448-b4df08fe14834cca" text_sha1="8f4bb439b375649b522dda94da394d1a3fa54dea" text_size="862" />
+}
+. <file file_id="test_main.py-20060409091623-bb212d4b200c8c35" name="test_main.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary@puzzling.org-20060429002526-9af129367b348f61" text_sha1="a2e4a2049fa2368c72380679f687b128c041298f" text_size="2554" />
+}
+] 53
+{ 53
+[ 73
+. <file executable="yes" file_id="test_channel.py-20060503032407-cf7abab88c238a72" name="test_channel.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary@puzzling.org-20060503034939-4b2da48aa41077ec" text_sha1="6d1dda1ecb9d2292b0d3c90f6af28c336d45ddb1" text_size="928" />
+] 73
+{ 73
+] 83
+{ 83
+. <file file_id="simple.tmpl-20060409084513-d04cdc93b9ede187" name="simple.tmpl" parent_id="data-20060522010134-da65f225f8a33519" revision="mary-bzr@puzzling.org-20060625023154-f27af0d9d20f1f79" text_sha1="fc92209f15db5ae861bbd13cbafbf14903550a4a" text_size="51" />
+. <file file_id="simple2.tmpl-20060409084514-3360e3050c257a6a" name="simple2.tmpl" parent_id="data-20060522010134-da65f225f8a33519" revision="mary-bzr@puzzling.org-20060625023154-f27af0d9d20f1f79" text_sha1="fc92209f15db5ae861bbd13cbafbf14903550a4a" text_size="51" />
+}
+. <file executable="yes" file_id="test_channel.py-20060503032407-cf7abab88c238a72" name="test_channel.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="jdub@svengali-20060522031145-428b8b9a1a0ed9e4" text_sha1="0d0185870875c6d8a45e23d17ef812c318d2166b" text_size="998" />
+}
+[ 75
+. <file executable="yes" file_id="test_main.py-20060409091623-bb212d4b200c8c35" name="test_main.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary@puzzling.org-20060503034939-4b2da48aa41077ec" text_sha1="97ea11eef859f8170e5a0ea69715db637a447c20" text_size="2613" />
+}
+{ 56
+[ 74
+. <file file_id="test_sanitize.py-20060508142808-8e3625c3552a87e6" name="test_sanitize.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="rubys@intertwingly.net-20060508142956-55c76099e52e7b66" text_sha1="8d64f6638669e6f30f80c7dec32209718619d9d1" text_size="6381" />
+}
+{ 73
+. <file executable="yes" file_id="test_sub.py-20060522010145-5aae1ecc68ecd813" name="test_sub.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="jdub@svengali-20060522031145-428b8b9a1a0ed9e4" text_sha1="2b6b41d7977b14dc9b17baad3ac6723fdc2165cd" text_size="2088" />
+}
+] 74
+{ 74
+] 75
+{ 75
+[ 83
+. <file executable="yes" file_id="test_main.py-20060409091623-bb212d4b200c8c35" name="test_main.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="rubys@intertwingly.net-20060522144746-1b4752cc5078711c" text_sha1="954ef63122e3d661b84da7e9677967ac557bf5ac" text_size="2598" />
+}
+] 83
+{ 83
+. <file executable="yes" file_id="test_main.py-20060409091623-bb212d4b200c8c35" name="test_main.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="mary-bzr@puzzling.org-20060625023154-f27af0d9d20f1f79" text_sha1="dfa893d5a07825ca47de3afc977d513ac1bcd9ec" text_size="2620" />
+}
+. <file executable="yes" file_id="test_sanitize.py-20060508142808-8e3625c3552a87e6" name="test_sanitize.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="jdub@svengali-20060522033613-656362b3c4032c76" text_sha1="8d64f6638669e6f30f80c7dec32209718619d9d1" text_size="6381" />
+. <file executable="yes" file_id="test_sub.py-20060522010145-5aae1ecc68ecd813" name="test_sub.py" parent_id="tests-20060409080131-e6c1ae6dfd841c07" revision="jdub@svengali-20060522033613-656362b3c4032c76" text_sha1="779176ae5d55569777a521f49d596f98b0a2947f" text_size="3211" />
+}
+. <file file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.12" name="timeoutsocket.py" parent_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Sat_Jul_17_04:20:16_2004_11390.0" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="c27df13372a761bbc4799775943bc301d4359440" text_size="12681" />
+[ 75
+. <file executable="yes" file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Wed_Jul_21_22:29:59_2004_7711.0" name="planet-cache.py" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="4db771d5bb352cf94d85b1d711b5994b0340447a" text_size="5884" />
+[ 2
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="25d0a0d804420a19cf9bb45c37a0141158ed3d8e" text_size="9373" />
+] 2
+{ 2
+[ 5
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-2" text_sha1="d52f84348b41ba645beeafac0020826b5ba7cf91" text_size="9477" />
+}
+] 5
+{ 5
+[ 10
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-5" text_sha1="b46d760c64248989de00c4724888aa007aaedc33" text_size="9501" />
+}
+] 10
+{ 10
+[ 23
+[ 40
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-10" text_sha1="ee40cee5c67e2a13619f65bcf2b2cd513122440d" text_size="9719" />
+}
+[ 14
+. <file file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:50:12_2004_8805.0" name="setup.py" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0" text_sha1="90c90c662d57feeb9dedf18b07dfc91b9b6e73c5" text_size="612" />
+] 14
+{ 14
+] 23
+{ 23
+[ 26
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="rubys@intertwingly.net-20060422023150-7c78d4dd2f916a25" text_sha1="f96ac33a5fc5093333540cd614e6c75293cb7fdd" text_size="10341" />
+}
+] 26
+{ 26
+[ 28
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="rubys@intertwingly.net-20060422235834-b915133a5c4f6173" text_sha1="0d8e612aab6503511943f077ebc87801591800a7" text_size="10731" />
+}
+] 28
+{ 28
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="rubys@intertwingly.net-20060423193231-5f53e4c5d33d42f5" text_sha1="394419a61d18d5aa000ba6e3aa0b296bc1460df8" text_size="10728" />
+}
+] 40
+{ 40
+[ 42
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="mary@puzzling.org-20060409091607-f8be8771fec38fcf" text_sha1="f47e28b237781dc16effdcea9a6efa32d7c1a6cc" text_size="3321" />
+}
+] 42
+{ 42
+[ 43
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="mary@puzzling.org-20060429000736-a6fd9a1384c055a7" text_sha1="e2ff70127d5f07e50b317542979b3425e14c87c0" text_size="3803" />
+}
+] 43
+{ 43
+[ 44
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="mary@puzzling.org-20060429002526-9af129367b348f61" text_sha1="d74360946d5c1d1b89abeec229a30fb5c24a57f3" text_size="3828" />
+}
+] 44
+{ 44
+[ 45
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="mary@puzzling.org-20060429004624-801bf5c184f21d0d" text_sha1="b0b1c476df49ca81d94a62f1604d09cc8b823b4c" text_size="3843" />
+}
+] 45
+{ 45
+[ 62
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="mary@puzzling.org-20060429005440-aa0e8db9dc0048dd" text_sha1="ac71077a529eb84b1444e6166b0b1b5baed4b4fb" text_size="3819" />
+}
+[ 55
+. <file executable="yes" file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:50:12_2004_8805.0" name="setup.py" revision="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-14" text_sha1="71d490cfe9aa419bff32653de324eaecbc246682" text_size="521" />
+}
+] 55
+{ 55
+{ 57
+] 62
+{ 62
+[ 71
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="rubys@intertwingly.net-20060509120437-841adf1934c62873" text_sha1="b843e5e225a2b111b3035a9f6a7d941c17ca039d" text_size="4919" />
+}
+[ 65
+. <file file_id="runtests.py-20060508142748-f8cc5fb79be2cbd1" name="runtests.py" revision="rubys@intertwingly.net-20060508143119-1a850accef3957eb" text_sha1="0735436020990689c006b3a35b86f7f1663d0834" text_size="289" />
+}
+. <file executable="yes" file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:50:12_2004_8805.0" name="setup.py" revision="jdub@svengali-20060503164302-4aed412bab3cd705" text_sha1="a7c0c5a25b81ab89656dd8743565dfbba3042bb9" text_size="637" />
+}
+] 65
+{ 65
+] 71
+{ 71
+[ 73
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="jdub@svengali-20060522015643-d4ad9042072c4d05" text_sha1="04d73b82dc1ec2085c5a6c3e5782d19e5fcfb265" text_size="5401" />
+}
+] 73
+{ 73
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="jdub@svengali-20060522031145-428b8b9a1a0ed9e4" text_sha1="c44cc275b94e6e6d01261da7eb426e7bc9462128" text_size="5693" />
+}
+] 75
+{ 75
+. <file executable="yes" file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Wed_Jul_21_22:29:59_2004_7711.0" name="planet-cache.py" revision="rubys@intertwingly.net-20060522144746-1b4752cc5078711c" text_sha1="38e46e758449319b479882911516e8cc437afdd2" text_size="5931" />
+. <file executable="yes" file_id="x_Jeff_Waugh_&lt;jdub@perkypants.org&gt;_Sat_Jan__3_19:08:59_2004_3752.10" name="planet.py" revision="rubys@intertwingly.net-20060522144746-1b4752cc5078711c" text_sha1="b047806c0d58de48ffbe5b9dce25649cac4d2ff9" text_size="5700" />
+}
+[ 86
+. <file executable="yes" file_id="runtests.py-20060508142748-f8cc5fb79be2cbd1" name="runtests.py" revision="jdub@svengali-20060509052427-15c27a3e72e94f57" text_sha1="0735436020990689c006b3a35b86f7f1663d0834" text_size="289" />
+] 86
+{ 86
+. <file executable="yes" file_id="runtests.py-20060508142748-f8cc5fb79be2cbd1" name="runtests.py" revision="mary-bzr@puzzling.org-20060622084504-8f835c22c5a86de2" text_sha1="10a2cd474b1d13c7860cfa08273917f5a539aa9b" text_size="311" />
+}
+. <file executable="yes" file_id="x_Scott_James_Remnant_&lt;scott@netsplit.com&gt;_Tue_Aug_10_14:50:12_2004_8805.0" name="setup.py" revision="jdub@svengali-20060509052427-15c27a3e72e94f57" text_sha1="94ca844a74bd0797c86429f91b7df4a4392d66ce" text_size="652" />
+}
+. </inventory>
+}
+W

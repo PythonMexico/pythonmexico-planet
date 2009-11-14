@@ -1,0 +1,22 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="d1ee6f1b9b44ffa6ef1ee128d60157ded980a695" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-2" timestamp="1100732414.000000000">
+<message>merge dme's filter code
+Patches applied:
+
+ * dme@dme.org--2004/planet--devel--1.0--base-0
+   tag of scott@netsplit.com--2004/planet--devel--1.0--patch-47
+
+ * dme@dme.org--2004/planet--devel--1.0--patch-2
+   Add support for filtering entries based on a regular expression.
+
+ * dme@dme.org--2004/planet--devel--1.0--patch-3
+   "keyword" should reall be "filter".  Also fix implementation (!).
+
+</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-1" />
+<revision_ref revision_id="Arch-1:dme@dme.org--2004%planet--devel--1.0--base-0" />
+<revision_ref revision_id="Arch-1:dme@dme.org--2004%planet--devel--1.0--patch-3" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

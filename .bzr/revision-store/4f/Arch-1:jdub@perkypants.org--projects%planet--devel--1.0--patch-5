@@ -1,0 +1,18 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="524d42b8e495fef9013dcafd388bcdb76643c990" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-5" timestamp="1106709490.000000000">
+<message>merged fixes from chris
+Patches applied:
+
+ * chris@chrisdolan.net--2004/planet--devel--1.0--patch-8
+   Moved planet.py main code into a subroutine
+
+ * chris@chrisdolan.net--2004/planet--devel--1.0--patch-9
+   Undo all changes from upstream feedparser.py
+
+</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-4" />
+<revision_ref revision_id="Arch-1:chris@chrisdolan.net--2004%planet--devel--1.0--patch-9" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

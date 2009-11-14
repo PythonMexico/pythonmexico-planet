@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="01c0532dd88a3d75ed5025f4f6cffaa930bc7557" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-13" timestamp="1139036259.000000000">
+<message>include python 2.1 fix from Sergey/Serega</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-12" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

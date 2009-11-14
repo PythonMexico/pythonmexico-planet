@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@perkypants.org&gt;" format="5" inventory_sha1="de397a1f745c5543dc28d542ed3295f9e9c84753" revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-10" timestamp="1138946286.000000000">
+<message>add --verbose (-v) parameter, which turns on DEBUG level logging</message>
+<parents>
+<revision_ref revision_id="Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-9" />
+</parents>
+<properties><property name="branch-nick">rd</property>
+</properties>
+</revision>

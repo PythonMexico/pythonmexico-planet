@@ -1,0 +1,59 @@
+# bzr weave file v5
+i
+1 5f81e5d86c7b76fbb65c81bc9c20d00464954907
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 ab808e16b86b5b18ddd0458133dedfa15eed3215
+n jdub@svengali-20060429160447-0146240be90da6c2
+
+w
+{ 0
+. <?xml version="1.0"?>
+. <rdf:RDF
+. 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+. 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+. 	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+. 	xmlns:rss="http://purl.org/rss/1.0/"
+. 	xmlns:dc="http://purl.org/dc/elements/1.1/"
+. >
+. <foaf:Group>
+[ 1
+. 	<foaf:name><TMPL_VAR name></foaf:name>
+] 1
+{ 1
+. 	<foaf:name><TMPL_VAR name ESCAPE="HTML"></foaf:name>
+}
+. 	<foaf:homepage><TMPL_VAR link ESCAPE="HTML"></foaf:homepage>
+. 	<rdfs:seeAlso rdf:resource="<TMPL_VAR url ESCAPE="HTML">" />
+. 
+. <TMPL_LOOP Channels>
+. 	<foaf:member>
+. 		<foaf:Agent>
+[ 1
+. 			<foaf:name><TMPL_VAR name></foaf:name>
+] 1
+{ 1
+. 			<foaf:name><TMPL_VAR name ESCAPE="HTML"></foaf:name>
+}
+. 			<foaf:weblog>
+. 				<foaf:Document rdf:about="<TMPL_VAR link ESCAPE="HTML">">
+[ 1
+. 					<dc:title><TMPL_VAR title></dc:title>
+] 1
+{ 1
+. 					<dc:title><TMPL_VAR title_plain ESCAPE="HTML"></dc:title>
+}
+. 					<rdfs:seeAlso>
+. 						<rss:channel rdf:about="<TMPL_VAR url ESCAPE="HTML">" />
+. 					</rdfs:seeAlso>
+. 				</foaf:Document>
+. 			</foaf:weblog>
+. 		</foaf:Agent>
+. 	</foaf:member>
+. </TMPL_LOOP>
+. 
+. </foaf:Group>
+. </rdf:RDF>
+}
+W

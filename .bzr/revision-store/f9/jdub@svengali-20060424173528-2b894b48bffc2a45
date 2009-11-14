@@ -1,0 +1,9 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="4041a501416cd314e3dad5dbbffde3118849b65c" revision_id="jdub@svengali-20060424173528-2b894b48bffc2a45" timestamp="1145900128.964987040" timezone="36000">
+<message>merged Atom support changes from Sam Ruby</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060424173044-d0b3b30c6b934ec4" />
+<revision_ref revision_id="rubys@intertwingly.net-20060424155523-b7eaadf9d8c67215" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

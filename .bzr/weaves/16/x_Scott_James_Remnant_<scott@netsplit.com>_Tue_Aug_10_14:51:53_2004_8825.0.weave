@@ -1,0 +1,75 @@
+# bzr weave file v5
+i
+1 c58e074cea874fd4053026cf5ae56ec45ba981fc
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--base-0
+
+i 0
+1 26dda7e7ea0895f664d45257a375c8c5f12f14f9
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-14
+
+i 1
+1 a1e8f8a8f14c09c38baf7a3adc30914f614e3c26
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-16
+
+i 2
+1 46df0c8b64f9c53d7df0d30b53768e1801e0662d
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-17
+
+i 3
+1 ca84941b23cff6948f57386222857627a6cd6654
+n Arch-1:jdub@perkypants.org--projects%planet--devel--1.0--patch-18
+
+i 4
+1 7630389028b6431f37b24555c16cc7eca0703759
+n jdub@svengali-20060503164302-4aed412bab3cd705
+
+i 5
+1 0a46d49ee1e50dedc9ed76f5ccca8bbd1734f7d6
+n jdub@svengali-20060504145447-8749b9206ab32210
+
+i 6
+1 d9544f54bc0bf6d6bed19342ab2e2d5ee91f7d5b
+n jdub@svengali-20060509042757-01a4f414dcf33658
+
+w
+{ 0
+[ 2
+. recursive-include examples *.tmpl *.ini
+. recursive-include output *.css *.png
+. recursive-include cache .empty
+] 2
+{ 2
+[ 4
+. recursive-include examples *.tmpl *.ini *.css *.png
+}
+] 4
+{ 4
+. recursive-include examples *.tmpl *.ini *.css *.png .empty
+}
+{ 6
+. recursive-include planet/tests *.tmpl
+}
+. include AUTHORS
+[ 3
+. include ChangeLog
+] 3
+. include INSTALL
+. include LICENCE
+[ 1
+. include MANIFEST.in
+] 1
+. include NEWS
+. include THANKS
+}
+{ 5
+. include TODO
+[ 7
+. exclude setup.py
+}
+] 7
+{ 7
+. # include bzr bits for easy updating
+. global-include .bzrignore
+. graft .bzr
+}
+W

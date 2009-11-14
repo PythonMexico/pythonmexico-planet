@@ -1,0 +1,30 @@
+# bzr weave file v5
+i
+1 0735436020990689c006b3a35b86f7f1663d0834
+n rubys@intertwingly.net-20060508143119-1a850accef3957eb
+
+i 0
+1 0735436020990689c006b3a35b86f7f1663d0834
+n jdub@svengali-20060509052427-15c27a3e72e94f57
+
+i 1
+1 10a2cd474b1d13c7860cfa08273917f5a539aa9b
+n mary-bzr@puzzling.org-20060622084504-8f835c22c5a86de2
+
+w
+{ 0
+{ 2
+. #!/usr/bin/env python
+}
+. import glob, trace, unittest
+. 
+. # find all of the planet test modules
+. modules = map(trace.fullmodname, glob.glob('planet/tests/test_*.py'))
+. 
+. # load all of the tests into a suite
+. suite = unittest.TestLoader().loadTestsFromNames(modules)
+. 
+. # run test suite
+. unittest.TextTestRunner().run(suite)
+}
+W

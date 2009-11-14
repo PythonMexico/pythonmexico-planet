@@ -1,0 +1,8 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="22709af12175cc193e10832169516fb15111cf25" revision_id="jdub@svengali-20060429160447-0146240be90da6c2" timestamp="1146326687.245585918" timezone="36000">
+<message>a few more relatively norty escapes in opml and foafroll</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060429151054-8e288fad1fa03425" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

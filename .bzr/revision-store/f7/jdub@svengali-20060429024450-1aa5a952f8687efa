@@ -1,0 +1,9 @@
+<revision committer="Jeff Waugh &lt;jdub@svengali&gt;" format="5" inventory_sha1="98d56587dc3c4c0620151fd950569150037b3f61" revision_id="jdub@svengali-20060429024450-1aa5a952f8687efa" timestamp="1146278690.565769911" timezone="36000">
+<message>merged mary's testing branch</message>
+<parents>
+<revision_ref revision_id="jdub@svengali-20060426221956-522d023516f7029f" />
+<revision_ref revision_id="mary@puzzling.org-20060429005440-aa0e8db9dc0048dd" />
+</parents>
+<properties><property name="branch-nick">trunk</property>
+</properties>
+</revision>

@@ -1,0 +1,9 @@
+<revision committer="Sam Ruby &lt;rubys@intertwingly.net&gt;" format="5" inventory_sha1="6eb4529fe52d01614979869187e3403dc9b3ca9f" revision_id="rubys@intertwingly.net-20060422235834-b915133a5c4f6173" timestamp="1145750314.521229029" timezone="-14400">
+<message>Add title_plain: titles with HTML stripped.  Useful for attribute values.
+</message>
+<parents>
+<revision_ref revision_id="rubys@intertwingly.net-20060422134605-fbf36a42e433d193" />
+</parents>
+<properties><property name="branch-nick">planet</property>
+</properties>
+</revision>
