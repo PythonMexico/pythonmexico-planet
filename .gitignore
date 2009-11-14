@@ -3,3 +3,4 @@
 *~
 #ignorar los *.pyc
 *.pyc
+*.tmplc
